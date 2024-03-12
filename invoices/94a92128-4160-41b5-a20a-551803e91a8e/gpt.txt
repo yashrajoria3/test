@@ -1,0 +1,30 @@
+{
+    "buyer_details": {
+        "name": "Yogeshwar Auto Springs",
+        "address": "Harish Shopping Centre, Near M.S. Kothari School, A.B. Road, Dwarka, Nasik",
+        "phone": "(0253) 2500940",
+        "gstin": "27AEOPB3580N1Z2"
+    },
+    "seller_details": {
+        "name": "Nawandar Agro Industry",
+        "address": "Ambad, Nasik",
+        "gstin": "27AATPN5060A1ZP"
+    },
+    "invoice_details": {
+        "invoice_number": "504",
+        "date": "14/10/21",
+        "items": [
+            {"description": "Bolt w/Nut 10x72x16", "hsn_sac": "7318", "quantity": "15", "rate": "107", "amount": "1605.00"}
+        ],
+        "taxable_value": "1605.00",
+        "tax_rate": ["9%", "9%"],
+        "cgst_amount": "72.45",
+        "sgst_amount": "72.45",
+        "total_amount": "1894.00"
+    },
+    "conclusion": {
+        "mobile_number_check": "Passed",
+        "total_check": "Passed",
+        "gst_certificate": "We hereby certify that our registration certificate under the Goods and Service Tax Act 2017 is in force on the date on which the sale of the goods & service specified in this tax invoice is made by us and that the transaction of goods & supply covered by this tax invoice has been effected by us and it shall be accounted for in the turnover of goods & service while filling of return and the due tax if any, payable on the goods & service has been paid or shall be paid."
+    }
+}

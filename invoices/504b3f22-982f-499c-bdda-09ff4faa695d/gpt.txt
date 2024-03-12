@@ -1,0 +1,73 @@
+{
+    "seller_details": {
+        "name": "Vertice Global Private Limited",
+        "address": "SY No.238, Keshavaram Village Medchal-Malkajgiri Dist Hyderabad - 500101, Telangana",
+        "tel": null,
+        "gstin": "36AAECV9668G1ZQ"
+    },
+    "buyer_details": {
+        "name": "Janata Stores",
+        "address": "768, GANUPAGAGA LANE, RAVIWAR PETH, Nashik, Maharashtra, 422001",
+        "gstin": "27ASWPS1528D1ZD"
+    },
+    "invoice_details": {
+        "invoice_number": "C12400171",
+        "delivery_note_reference_no": "82122019",
+        "date": "19-May-23",
+        "items": [
+            {"description": "ShaveX Platinum Saloon Pack-DE2P202 (VSSL200) 10000 Blades Per Carton", "hsn_sac": null, "quantity": "2.00 carton's", "rate": "8220.34", "amount": "16440.68"},
+            {"description": "Vertice One Saloon Pack-DE2S102 10000 Blades Per Carton", "hsn_sac": null, "quantity": "1.00 carton's", "rate": "6016.95", "amount": "6016.95"},
+            {"description": "ShaveX 3 Piece Metal Razor-AC2201 6 Inners Per Carton", "hsn_sac": null, "quantity": "1.00 carton's", "rate": "3233.90", "amount": "3233.90"},
+            {"description": "Vertice Shavex Classic Shaving Foam 500ML-TO2201 500ml 12 Cans Per Carton", "hsn_sac": null, "quantity": "3.00 No's", "rate": "2516.94", "amount": "7540.82"}
+        ],
+        "tax_rate": ["18%", "18%", "18%", "18%"],
+        "igst_amount": null,
+        "cgst_amount": ["0.0", "838.98", "453.05", "9440.23"],
+        "sgst_amount": ["0.0", "838.98", "453.05", "9440.23"],
+        "total_amount": "61886.00"
+    },
+    "conclusion": {
+        "mobile_number_check": "Passed",
+        "total_check": "Passed"
+    }
+}
+
+
+
+prompt 2: you forgot one item from the items list
+
+
+{
+    "seller_details": {
+        "name": "Vertice Global Private Limited",
+        "address": "SY No.238, Keshavaram Village Medchal-Malkajgiri Dist Hyderabad - 500101, Telangana",
+        "tel": null,
+        "gstin": "36AAECV9668G1ZQ"
+    },
+    "buyer_details": {
+        "name": "Janata Stores",
+        "address": "768, GANUPAGAGA LANE, RAVIWAR PETH, Nashik, Maharashtra, 422001",
+        "gstin": "27ASWPS1528D1ZD"
+    },
+    "invoice_details": {
+        "invoice_number": "C12400171",
+        "delivery_note_reference_no": "82122019",
+        "date": "19-May-23",
+        "items": [
+            {"description": "ShaveX Platinum Saloon Pack-DE2P202 (VSSL200) 10000 Blades Per Carton", "hsn_sac": null, "quantity": "2.00 carton's", "rate": "8220.34", "amount": "16440.68"},
+            {"description": "Vertice One Saloon Pack-DE2S102 10000 Blades Per Carton", "hsn_sac": null, "quantity": "1.00 carton's", "rate": "6016.95", "amount": "6016.95"},
+            {"description": "ShaveX 3 Piece Metal Razor-AC2201 6 Inners Per Carton", "hsn_sac": null, "quantity": "1.00 carton's", "rate": "3233.90", "amount": "3233.90"},
+            {"description": "Vertice Shavex Classic Shaving Foam 500ML-TO2201 500ml 12 Cans Per Carton", "hsn_sac": null, "quantity": "3.00 No's", "rate": "2516.94", "amount": "7540.82"},
+            {"description": "Silvermax Double Edge Saloon Pack-DE2P302 10000 Blades Per Carton", "hsn_sac": null, "quantity": "1.00 carton's", "rate": "8220.34", "amount": "8220.34"}
+        ],
+        "tax_rate": ["18%", "18%", "18%", "18%", "18%"],
+        "igst_amount": null,
+        "cgst_amount": ["0.0", "838.98", "453.05", "9440.23", "0.0"],
+        "sgst_amount": ["0.0", "838.98", "453.05", "9440.23", "0.0"],
+        "total_amount": "61886.00"
+    },
+    "conclusion": {
+        "mobile_number_check": "Passed",
+        "total_check": "Passed"
+    }
+}

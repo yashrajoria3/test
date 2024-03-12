@@ -1,0 +1,90 @@
+{
+   "IRNNo":"23AAJFC4547K1ZC",
+   "SerialNoOfInvoice":"ST/2122/0003060",
+   "DateOfInvoice":"02/01/2022",
+   "DateOfPreparation":"02/01/2022",
+   "DateOfRemoval":"02/01/2022",
+   "DetailsOfReceiver":{
+      "Name":"CHAMPION ROLLING MILL PVT. LTD.",
+      "Address":"GUT NO. -2, 4, 21 & 16, VILLAGE - VARDHA, UCHAT ROAD, TALUKA - WADA, DIST PALGHAR, WADA 421312 Maharashtra India",
+      "Phone":"7498171756",
+      "Fax":"",
+      "Email":"champion_rolling@yahoo.co.in",
+      "GSTIN":"27AACCC3441J1ZS"
+   },
+   "State":{
+      "StateCode":"27",
+      "GSTIN/UniqueID":"27AATPN5060A1ZP"
+   },
+   "DetailsOfConsignee":{
+      "Name":"M/S NAVANDAR AGRO INDUSTRIES",
+      "Address":"B-5, M.I.D.C. AMBAD, DIST-NASHIK 422 010",
+      "State":"Maharashtra",
+      "GSTIN/UniqueID":"27AATPN5060A12P"
+   },
+   "DescriptionOfGoods":[
+      {
+         "HSN/SAC":"72161000",
+         "ItemDescription":"MS CHANNEL 200 X 75",
+         "Qty":"2.300 mts",
+         "RatePerGoods":"52000.00"
+      },
+      {
+         "HSN/SAC":"72161000",
+         "ItemDescription":"MS CHANNEL 125 X 65",
+         "Qty":"0.550 mts",
+         "RatePerGoods":"52400.00"
+      },
+      {
+         "HSN/SAC":"72161000",
+         "ItemDescription":"MS CHANNEL 100 x 50",
+         "Qty":"0.610 mts",
+         "RatePerGoods":"51200.00"
+      },
+      {
+         "HSN/SAC":"72161000",
+         "ItemDescription":"MS CHANNEL 75 X 40",
+         "Qty":"0.960 mts",
+         "RatePerGoods":"51400.00"
+      },
+      {
+         "HSN/SAC":"72161000",
+         "ItemDescription":"MS CHANNEL 70 X 35",
+         "Qty":"8.170 mts",
+         "RatePerGoods":"150.00"
+      }
+   ],
+   "TotalInvoiceValue":{
+      "Gross":"503652.92",
+      "TaxableValue":"4271.19",
+      "TotalCGST":"537.57",
+      "TotalSGST":"537.57",
+      "TotalIGST":"0.00",
+      "TotalAmountChargeableInWords":"Rupees Five Lakh Three Thousand Six Hundred Fifty Two and Ninety Two Only"
+   },
+   "BankDetails":{
+      "BankName":"Kotak Mahindra Bank",
+      "AccountNo":"5845380454",
+      "Branch":"Goregaon (West)",
+      "IFSCCode":"KKBK0000643",
+      "AccountName":"LIFETIME DIAGNOSTICS PRIVATE LIMITED"
+   },
+   "TermsAndConditions":"Goods once sold will not be taken back. Payment should be made by Payees A/c Draft or Local Cheques only. Our responsibility for short weight or quantity ceases after goods leave our premises, occurred due to any reason including theft, burglary, etc. Bill Not Paid on due date will be charged interest @ 30% P.A. Goods Once delivered are not returnable or exchangeable. All disputes are subject to Mumbai Jurisdiction. E & OE",
+   "InvoiceNo":"VI-197",
+   "GRNo":"",
+   "VehicleNo/LRNo":"",
+   "PaymentTerms":"",
+   "BrokerName":"",
+   "DONO":"",
+   "LoadingCharges":"",
+   "TCS":"",
+   "ReferenceNumber":"",
+   "Declaration":"We declare that this invoice shows the actual price of the goods described and that all particulars are true and correct.",
+   "Total":{
+      "TaxableAmount":"426824.50",
+      "TotalCGST":"38341.21",
+      "TotalSGST":"38341.21",
+      "TotalIGST":"0.00",
+      "FinalAmount":"503852.92"
+   }
+}

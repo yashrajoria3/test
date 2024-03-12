@@ -1,0 +1,95 @@
+{
+  "Invoice Number": "LTD/F730/23-24",
+  "Invoice Date": "29-Jun-23",
+  "Sender": {
+    "Name": "LIFETIME DIAGNOSTICS PRIVATE LIMITED",
+    "Address": "701 7TH FLOOR MADHU INDUSTRIAL PARK, MARG, AVADH NARAYAN TIWARI (EAST), MOGRA VILLAGE, MUMBAI - 400069, Maharashtra",
+    "Contact": "Tel-0223200/220/224",
+    "GSTIN": "27AAECL2562R1ZX",
+    "Email": "",
+    "Phone": ""
+  },
+  "Receiver": {
+    "Name": "Blood Care Hematology Clinic",
+    "Address": "G1, Suyojit Modern Point, Opp Police Petrol Pump, Sharanpur Road, Nashik - 422002, Maharashtra - 422002, India",
+    "Contact": "Tel No.: 9665494031"
+  },
+  "Items": [
+    {
+      "Description": "(15809475) Fuji DRI-Chem Slide CREPIIIS (24Pcs/Box) Mfg By: Fuji Film India Pvt Ltd",
+      "HSN/SAC": "38220090",
+      "GST": "12%",
+      "Quantity": "2 box",
+      "Rate": "431.52",
+      "Amount": "863.04"
+    },
+    {
+      "Description": "(15809396) Fuji DRI-Chem Slide ALBPS (24Pcs/Box) Mfg By: Fuji Film India Pvt Ltd",
+      "HSN/SAC": "38220090",
+      "GST": "12%",
+      "Quantity": "1 box",
+      "Rate": "666.14",
+      "Amount": "666.14"
+    },
+    {
+      "Description": "(15809621) Fuji DRI-Chem Slide NAKCLS (24Pcs/Box) Mfg By: Fuji Film India Pvt Ltd",
+      "HSN/SAC": "38220090",
+      "GST": "12%",
+      "Quantity": "1 box",
+      "Rate": "1,920.00",
+      "Amount": "1,920.00"
+    },
+    {
+      "Description": "(15809554) Fuji DRI-Chem Slide GPTPIIS (24Pcs/Box) Mfg By: Fuji Film India Pvt Ltd",
+      "HSN/SAC": "38220090",
+      "GST": "12%",
+      "Quantity": "3 box",
+      "Rate": "748.80",
+      "Amount": "2,246.40"
+    },
+    {
+      "Description": "(15809542) Fuji DRI-Chem Slide GOTPIIS (24PCS/BOX) Mfg By: Fuji Film India Pvt Ltd",
+      "HSN/SAC": "38220090",
+      "GST": "12%",
+      "Quantity": "3 box",
+      "Rate": "748.80",
+      "Amount": "2,246.40"
+    },
+    {
+      "Description": "(15622401) Mixing Cups Batch 20304",
+      "HSN/SAC": "39269099",
+      "GST": "18%",
+      "Quantity": "1 no",
+      "Rate": "750.00",
+      "Amount": "750.00"
+    },
+    {
+      "Description": "(15809748) FDC DL 11 EX Batch 71531",
+      "HSN/SAC": "38220090",
+      "GST": "12%",
+      "Quantity": "1 box",
+      "Rate": "1,375.66",
+      "Amount": "1,375.66"
+    },
+    {
+      "Description": "(15809786) Fuji DRI-CHEM REFERENCE FLUID RE (VIAL Batch:60839",
+      "HSN/SAC": "38220090",
+      "GST": "12%",
+      "Quantity": "1 Vial",
+      "Rate": "267.60",
+      "Amount": "267.60"
+    }
+  ],
+  "Total Taxable Value": "10335.24",
+  "Central Tax": {
+    "Rate": "6%",
+    "Amount": "537.57"
+  },
+  "State Tax": {
+    "Rate": "6%",
+    "Amount": "537.57"
+  },
+  "Total Amount": "10810.38",
+  "Amount in Words": "Ten thousand eight hundred ten and thirty-eight",
+  "Declaration": "This is a Computer Generated Invoice"
+}

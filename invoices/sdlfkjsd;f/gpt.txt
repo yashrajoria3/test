@@ -1,0 +1,55 @@
+{
+    "seller_details": {
+        "name": "LIFETIME DIAGNOSTICS PRIVATE LIMITED",
+        "address": "701, 7TH FLOOR, MADHU INDUSTRIAL PARK, AVADH NARAYAN TIWARI MARG, MOGRA VILLAGE, ANDHERI (EAST), MUMBAI - 400069",
+        "phone": "022-42113200 / 220 / 224",
+        "gstin": "27AAECL2562R1ZX",
+        "state_name": "Maharashtra",
+        "state_code": "27"
+    },
+    "buyer_details": {
+        "name": "Blood Care Hematology Clinic",
+        "address": "G1, Suyojit Modern Point, Opp Police Petrol Pump, Sharanpur Road, Nashik - 422002 Maharashtra - 422002, India",
+        "state_name": "Maharashtra",
+        "state_code": "27",
+        "phone": "9665494031"
+    },
+    "invoice_details": {
+        "invoice_number": "LTD/F730/23-24",
+        "delivery_note": "LTD/F730/23-24 dt. 29-Jun-23",
+        "buyer_order_number": null,
+        "dispatch_document_number": null,
+        "terms_of_delivery": "30 Days",
+        "description_of_goods": [
+            {
+                "hsn_sac": "38220090",
+                "description": "Blood Care Hematology Clinic",
+                "quantity": "8,959.58",
+                "rate": "6%",
+                "cgst_amount": "537.57",
+                "sgst_amount": "537.57",
+                "total_amount": "11,658.00"
+            },
+            {
+                "hsn_sac": "39269099",
+                "description": "Remarks: INTEREST WILL BE CHARGED @ 24% P.A. AFTER DUE DATE. MATERIALS ONCE SOLD WILL NOT BE TAKEN BACK.",
+                "quantity": null,
+                "rate": null,
+                "cgst_amount": null,
+                "sgst_amount": null,
+                "total_amount": null
+            }
+        ],
+        "total_taxable_value": "8,959.58",
+        "total_cgst_amount": "537.57",
+        "total_sgst_amount": "537.57",
+        "total_tax_amount": "1,075.14",
+        "total_amount_chargeable": "11,658.00",
+        "total_in_words": "INR Eleven Thousand Six Hundred Fifty Eight Only"
+    },
+    "payment_details": {
+        "bank_name": "Kotak Mahindra Bank",
+        "account_number": "5845380454",
+        "branch_and_ifsc_code": "Goregaon (West) & KKBK0000643"
+    }
+}

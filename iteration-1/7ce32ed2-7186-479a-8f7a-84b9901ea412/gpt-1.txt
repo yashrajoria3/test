@@ -1,0 +1,78 @@
+{
+  "seller_details": {
+    "name": "SHRI HARI AGENCY",
+    "address": "2302, KALA MAROTI ROAD, OPP PRAVIN PHPTO, YEOLA, PH1267087 MO. 7038844387 (ANNA)/7756038038.",
+    "tel": "",
+    "gstin": "27AADPLISS"
+  },
+  "buyer_details": {
+    "name": "SEREE MAHALAXMI KIRANA PAWAR",
+    "address": "",
+    "contact": "",
+    "gstin": "27AYAPP285691ZS"
+  },
+  "invoice_details": {
+    "invoice_number": "1965",
+    "delivery_note_reference_no": "",
+    "date": "11/09/2021",
+    "items": [
+      {
+        "description": "SAHYADRI RED TEA 250G",
+        "hsn_sac": 902,
+        "quantity": "1",
+        "rate": 80.00,
+        "amount": 80.00
+      },
+      {
+        "description": "SAHYADRI RED TEA 500G JAR",
+        "hsn_sac": 902,
+        "quantity": "1",
+        "rate": 190.00,
+        "amount": 190.00
+      },
+      {
+        "description": "PAR. HOTEL DUST TEA 30G",
+        "hsn_sac": 902,
+        "quantity": "1",
+        "rate": 10.00,
+        "amount": 10.00
+      },
+      {
+        "description": "PAR HOTEL DUS TEA 250G",
+        "hsn_sac": 902,
+        "quantity": "1",
+        "rate": 105.00,
+        "amount": 105.00
+      },
+      {
+        "description": "PAR HOTEL DUST TEA 500G",
+        "hsn_sac": 902,
+        "quantity": "1",
+        "rate": 200.00,
+        "amount": 200.00
+      },
+      {
+        "description": "PAR HOTEL OUST TEA 1KG",
+        "hsn_sac": 902,
+        "quantity": "1",
+        "rate": 400.00,
+        "amount": 400.00
+      },
+      {
+        "description": "PAR HOTEL DUST TEA 1KG",
+        "hsn_sac": 902,
+        "quantity": "1",
+        "rate": 169.52,
+        "amount": 169.52
+      }
+    ],
+    "tax_rate": [0.00, 0.00, 0.00, 0.00],
+    "cgst_amount": [3.00, 3.00, 3.00, 4.00],
+    "sgst_amount": [0.00, 0.00, 0.00, 0.00],
+    "total_taxable_amount": 742.83,
+    "total_amount": 779.97
+  },
+  "other_details": {
+    // Not enough information provided to populate this section
+  }
+}

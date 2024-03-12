@@ -1,0 +1,87 @@
+{
+"seller_details": {
+"name": "LIFETIME DIAGNOSTICS PRIVATE LIMITED",
+"address": "701 7TH FLOOR MADHU INDUSTRIAL PARK. MARG, AVADH NARAYAN TIWARI (EAST), MOGRA VILLAGE, MUMBAI - 400069",
+"tel": "0223200/220/224",
+"gstin": "27AAECL2562R1ZX"
+},
+"buyer_details": {
+"name": "Blood Care Hematology Clinic",
+"address": "G1, Suyojit Modern Point, Opp Police Petrol Pump, Sharanpur Road, Nashik - 422002, Maharashtra - 422002, India",
+"contact": "9665494031",
+"gstin": "27"
+},
+"invoice_details": {
+"invoice_number": "LTD/F730/23-24",
+"delivery_note_reference_no": "LTD/F730/23-24 dt. 29-Jun-23",
+"date": "29-Jun-23",
+"items": [
+{
+"description": "Fuji DRI-Chem Slide CREPIIIS (24Pcs/Box) Mfg By: Fuji Film India Pvt Ltd",
+"hsn_sac": 38220090,
+"quantity": "2 box",
+"rate": 431.52,
+"amount": 863.04
+},
+{
+"description": "Fuji DRI-Chem Slide ALBPS (24Pcs/Box) Mfg By: Fuji Film India Pvt Ltd",
+"hsn_sac": 38220090,
+"quantity": "1 box",
+"rate": 666.14,
+"amount": 666.14
+},
+{
+"description": "Fuji DRI-Chem Slide NAKCLS (24Pcs/Box) Mfg By: Fuji Film India Pvt Ltd",
+"hsn_sac": 38220090,
+"quantity": "1 box",
+"rate": 1920.00,
+"amount": 1920.00
+},
+{
+"description": "Fuji DRI-Chem Slide GPTPIIS (24Pcs/Box) Mfg By: Fuji Film India Pvt Ltd",
+"hsn_sac": 38220090,
+"quantity": "3 box",
+"rate": 748.80,
+"amount": 2246.40
+},
+{
+"description": "Fuji DRI-Chem Slide GOTPIIS (24PCS/BOX) Mfg By: Fuji Film India Pvt Ltd",
+"hsn_sac": 38220090,
+"quantity": "3 box",
+"rate": 748.80,
+"amount": 2246.40
+},
+{
+"description": "Mixing Cups Batch 20304",
+"hsn_sac": 39269099,
+"quantity": "1 no",
+"rate": 1375.66,
+"amount": 1375.66
+},
+{
+"description": "FDC DL 11 EX Batch 71531",
+"hsn_sac": 38220090,
+"quantity": "1 box",
+"rate": 750.00,
+"amount": 750.00
+},
+{
+"description": "Fuji DRI-CHEM REFERENCE FLUID RE (VIAL Batch:60839",
+"hsn_sac": 38220090,
+"quantity": "1 Vial",
+"rate": 267.60,
+"amount": 267.60
+}
+],
+"tax_rate": [12, 12, 12, 12, 12, 18, 12, 6, 6],
+"cgst_amount": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+"sgst_amount": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+"total_taxable_amount": 10335.24,
+"total_amount": 10335.24
+},
+"other_details": {}
+}
+
+
+
+

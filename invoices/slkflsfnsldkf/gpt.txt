@@ -1,0 +1,60 @@
+{
+    "seller_details": {
+        "name": "CHITRA GROUP OF PRODUCTS",
+        "address": "768, GANUPAGAGA LINE RAVIWAR PETH, NASIK NASHIK State: Maharashtra",
+        "state_code": "27",
+        "contact_no": ""
+    },
+    "buyer_details": {
+        "name": "JANTA STORES - NASHIK",
+        "address": "ROOPRAM NAGAR, INDORE-MADHYA PRADESH",
+        "state_code": "27",
+        "contact_no": "",
+        "gstin": "27ASWPS1528D1ZD"
+    },
+    "invoice_details": {
+        "invoice_number": "VI-197",
+        "date": "12-Jul-2023",
+        "terms_and_conditions": "E. & O.E. Goods once sold will not be taken back",
+        "total_taxable_value": "12101.69",
+        "total_tax_amount": "2178.30",
+        "total_amount": "14280.00",
+        "total_amount_in_words": "Rupees Fourteen Thousand Two Hundred Eighty Only",
+        "items": [
+            {
+                "hsn_sac": "3305",
+                "description": "PMJASMINE HAIR OIL 22 ML",
+                "quantity": "100",
+                "rate": "50.8474",
+                "uom": "Dozen",
+                "igst_rate": "18.00",
+                "igst_amount": "915.25",
+                "total_amount": "5084.74"
+            },
+            {
+                "hsn_sac": "3305",
+                "description": "PM JASMINE HAIR OIL 60 MLF",
+                "quantity": "101.6949",
+                "rate": "42.71",
+                "uom": "Dozen",
+                "igst_rate": "18.00",
+                "igst_amount": "768.81",
+                "total_amount": "4271.19"
+            },
+            {
+                "hsn_sac": "3305",
+                "description": "VM.COCO LIGHT HAIR OIL 60ML",
+                "quantity": "101.6949",
+                "rate": "27.45",
+                "uom": "Dozen",
+                "igst_rate": "18.00",
+                "igst_amount": "494.24",
+                "total_amount": "2745.76"
+            }
+        ]
+    },
+    "conclusion": {
+        "total_tax_amount_in_words": "Rupees Two Thousand One Hundred Seventy Eight & Thirty Paise Only",
+        "original_for_buyer_contact": "9644205999"
+    }
+}

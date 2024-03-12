@@ -1,0 +1,78 @@
+{
+  "Invoice Number": "213226",
+  "Invoice Date": "23/09/2021",
+  "Sender": {
+    "Name": "DEESAN AGRO TECH. PRIVATE LIMITED UNIT II",
+    "Address": "PLOT NO. A 2 M.I.D.C. AWDHAN, DHULE(MS)-424006",
+    "Phone": "02562-288916, 288936",
+    "Email": "oil@deesan.com",
+    "GSTIN/UIN": "27AAACD1662N1ZI",
+    "PAN NO.": "AAACD1662N",
+    "FSSAI LIC. NO.": "10012022000193"
+  },
+  "Receiver": {
+    "Name": "SHRI MAHALAXMI KIRANA (PAWAR) \"YEOLA\"",
+    "Address": "SHANI PATAGAN, NEAR STATE BANK, BUS STAND BACK, YEOLA, 423401",
+    "Phone": "9822679940 RAVINDRABHAU PAWAR",
+    "GSTIN/UIN": "27AYAPP2856P1ZS",
+    "PAN": "AYAPP2856P"
+  },
+  "Items": [
+    {
+      "Description": "PARIVAR 500mISOYA REF(1BOX-20P)",
+      "HSN/SAC": "15079",
+      "Quantity": "2 500MLB",
+      "Rate": "1310.48",
+      "Amount": "2620.96",
+      "CGST": "5.0",
+      "SGST": "5.0"
+    },
+    {
+      "Description": "PARIVAR 1LTR SOYA REF. (1BOX=10PCH)",
+      "HSN/SAC": "15079",
+      "Quantity": "51LPBOX",
+      "Rate": "1294.29",
+      "Amount": "6471.42",
+      "CGST": "5.0",
+      "SGST": "5.0"
+    },
+    {
+      "Description": "PARIVAR 2 LTR SOYA REF(1 BOX=6JAR)",
+      "HSN/SAC": "15079",
+      "Quantity": "1 2LJBOX",
+      "Rate": "1634.29",
+      "Amount": "1634.28",
+      "CGST": "5.0",
+      "SGST": "5.0"
+    },
+    {
+      "Description": "PARIVAR 5.LTR. SOYA REF.(1BOX=4JAR)",
+      "HSN/SAC": "15079",
+      "Quantity": "4 5LJBOX",
+      "Rate": "2641.90",
+      "Amount": "10567.62",
+      "CGST": "5.0",
+      "SGST": "5.0"
+    },
+    {
+      "Description": "PARIVAR 15LTR JAR BOX SOYA REF.OIL",
+      "HSN/SAC": "15079",
+      "Quantity": "5 15LJAR",
+      "Rate": "1962.86",
+      "Amount": "9814.28",
+      "CGST": "5.0",
+      "SGST": "5.0"
+    }
+  ],
+  "Total Amount Before Tax": "31108.56",
+  "CGST": "777.71",
+  "SGST": "777.71",
+  "Total Amount After Tax": "32664.00",
+  "Amount in Words": "Rs. Thirty Two Thousand Six Hundred Sixty Four Only",
+  "Declaration": "I/We hereby certify that food/foods mentioned in this invoice are warranted to be nature and quality which I purport/purports to be.",
+  "Bank Details": {
+    "Bank Name": "HDFC",
+    "A/c No.": "06378640000040",
+    "IFSC Code": "HDFC0000637"
+  }
+}

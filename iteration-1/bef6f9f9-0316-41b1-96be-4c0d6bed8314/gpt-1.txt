@@ -1,0 +1,113 @@
+{
+  "seller_details": {
+    "name": "DEESAN AGRO TECH. PRIVATE LIMITED UNIT II",
+    "address": "PLOT NO. A 2 M.I.D.C. AWDHAN, DHULE(MS)-424006",
+    "tel": "Phone:02562-288916,288936",
+    "gstin": "GSTN No.: 27AAACD1662N1ZI"
+  },
+  "buyer_details": {
+    "name": "SHRI MAHALAXMI KIRANA (PAWAR) \"YEOLA*",
+    "address": "SHANI PATAGAN, NEAR STATE BANK, BUS STAND BACK, City : YEOLA, 423401",
+    "contact": "Phone: 9822679940 RAVINDRABHAU PAWAR.()",
+    "gstin": "GSTN : 27AYAPP2856P1ZS"
+  },
+  "invoice_details": {
+    "invoice_number": "Inv.No. : 213226",
+    "delivery_note_reference_no": "", // Not found in the provided text
+    "date": "Date: 23/09/2021",
+    "items": [
+      {
+        "description": "PARIVAR 500mISOYA REF(1BOX-20P)",
+        "hsn_sac": 0, // Not found in the provided text
+        "quantity": "2 500MLB",
+        "rate": 18.2,
+        "amount": 2620.96
+      },
+      {
+        "description": "PARIVAR 1LTR SOYA REF. (1BOX=10PCH)",
+        "hsn_sac": 0, // Not found in the provided text
+        "quantity": "51LPBOX",
+        "rate": 45.5,
+        "amount": 6471.42
+      },
+      {
+        "description": "PARIVAR 2 LTR SOYA REF(1 BOX=6JAR)",
+        "hsn_sac": 0, // Not found in the provided text
+        "quantity": "1 2LJBOX",
+        "rate": 1634.29,
+        "amount": 1634.28
+      },
+      {
+        "description": "PARIVAR 5.LTR. SOYA REF.(1BOX=4JAR)",
+        "hsn_sac": 0, // Not found in the provided text
+        "quantity": "4 5LJBOX",
+        "rate": 2641.9,
+        "amount": 10567.62
+      },
+      {
+        "description": "PARIVAR 15LTR JAR BOX SOYA REF.OIL",
+        "hsn_sac": 0, // Not found in the provided text
+        "quantity": "5 15LJAR",
+        "rate": 1962.86,
+        "amount": 9814.28
+      }
+    ],
+    "tax_rate": [
+      5.0,
+      5.0,
+      5.0,
+      5.0,
+      5.0
+    ],
+    "cgst_amount": [
+      65.52,
+      161.79,
+      40.86,
+      264.19,
+      245.36
+    ],
+    "sgst_amount": [
+      65.52,
+      161.79,
+      40.86,
+      264.19,
+      245.36
+    ],
+    "total_taxable_amount": 31108.56,
+    "total_amount": 32664.00
+  },
+  "other_details": {
+    "date_of_supply": "Date of Supply : 23-SEP-21",
+    "mode_of_transport": "Mode of Transport: By Road Veh.Lic.No.:",
+    "vehicle_no": "", // Not found in the provided text
+    "receiver_details": {
+      "name": "SHRI MAHALAXMI KIRANA (PAWAR) \"YEOLA",
+      "address": "SHANI PATAGAN, NEAR STATE BANK, BUS STAND BACK, City : YEOLA, 423401",
+      "phone": "Phone : 9822679940 RAVINDRABHAU PAWAR.()",
+      "state": "State : MAHARASHTRA",
+      "state_code": "State Code: 27",
+      "gstin": "GSTN : 27AYAPP2856P1ZS"
+    },
+    "consignee_details": {
+      "name": "SHRI MAHALAXMI KIRANA (PAWAR) \"YEOLA",
+      "address": "SHANI PATAGAN, NEAR STATE BANK, BUS STAND BACK, City : YEOLA, 423401",
+      "phone": "Phone : 9822679940 RAVINDRABHAU PAWAR.()",
+      "state": "State : MAHARASHTRA",
+      "state_code": "State Code: 27"
+    },
+    "payment_details": {
+      "cheque_no": "RECD. CHEQUE NO. 17 (FOR)",
+      "bank_details": "Please Make Payment in Our Bank A/C: HDFC A/C No.: 06378640000040",
+      "ifsc_code": "IFSC CODE: HDFC0000637"
+    },
+    "total_before_tax": "Total Amount Before Tax 31108.56",
+    "total_cgst": "Add: CGST 777.71",
+    "total_sgst": "Add: SGST 0.00",
+    "total_igst": "Add: IGST 30779306371",
+    "total_gst": "Total Amount of GST 1555.42",
+    "round_off": "Round Off(+) NA",
+    "total_after_tax": "Total Amount After Tax: () 32664.00",
+    "gst_payable": "GST payable on Reverse Charge: 0.00",
+    "certification": "Certified that the particulars given above are true and Correct"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "SupplierInvoiceNo": "INV.UT",
+    "Date": "02/06/2023",
+    "PartyACName": ["BLOODCARE HE DIAGNOSTIC CENTER"],
+    "PartyACGSTN": [],
+    "StockItemList": [
+        {"Description": "LABTUBE EDTA K3", "Quantity": "4.00", "Unit": "ML", "Rate": "4.00", "Amount": "190.00"},
+        {"Description": "LABTUBE EDTA K3", "Quantity": "4.00", "Unit": "ML", "Rate": "4.00", "Amount": "190.00"},
+        {"Description": "LABTUBE CLOT ACT 4 ML SOFTN", "Quantity": "4.00", "Unit": "4.00", "Rate": "4.00", "Amount": "190.00"}
+    ],
+    "CGST": ["190.00", "190.00", "190.00"],
+    "SGST": [],
+    "IGST": [],
+    "Cess": [],
+    "FreightAndCharges": [],
+    "Discount": ["380.00", "190.00", "570.00", "1140.00", "136.80"]
+}

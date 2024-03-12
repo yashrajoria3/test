@@ -1,0 +1,30 @@
+{
+    "invoice_number": "1965",
+    "invoice_date": "11/09/2021",
+    "receiver_details": {
+        "name": "SHRI HARI AGENCY",
+        "address": "2302, KALA MAROTI ROAD, OPP PRAVIN PHPTO, YEOLA",
+        "phone": "267087",
+        "mobile": "7038844387 (ANNA) / 7756038038"
+    },
+    "receiver_gstin": "27AYAPP2856P125",
+    "reverse_charge": "NO",
+    "fssai_lic_no": "11515028000440",
+    "products": [
+        {"name": "SAHYADRI RED TEA250G", "mrp": "80.00", "qty": "80", "total": "6400.00"},
+        {"name": "SAHY ELAIC TEA 250GM", "mrp": "90.00", "qty": "90", "total": "8100.00"},
+        {"name": "SAHY ELAIC TEA 500G JAR", "mrp": "190.00", "qty": "10", "total": "1900.00"}
+    ],
+    "taxable_amount": "15770.39",
+    "total_amount": "16559.00",
+    "gst_details": [
+        {"rate": "3.00", "cgst": "742.83", "sgst": "742.83"},
+        {"rate": "5.00", "cgst": "377.14", "sgst": "377.14"}
+    ],
+    "grand_total": "16559.00",
+    "certified_note": "Certified that the particulars given above are true and correct.",
+    "conclusion": {
+        "mobile_number_check": "Passed",
+        "total_check": "Passed"
+    }
+}

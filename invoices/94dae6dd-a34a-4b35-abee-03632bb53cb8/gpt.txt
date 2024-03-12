@@ -1,0 +1,36 @@
+{
+    "seller_details": {
+        "name": "LIFETIME DIAGNOSTICS PRIVATE LIMITED",
+        "address": "701 7TH FLOOR MADHU INDUSTRIAL PARK. AVADH NARAYAN TIWARI MARO, MOGRA VILLAGE, ANDHERI (EAST) MUMBAI - 400069",
+        "tel": "022-42113200 / 220 / 224",
+        "gstin": "27AAECL2562R1ZX"
+    },
+    "buyer_details": {
+        "name": "Blood Care Hematology Clinic",
+        "address": "G1, Suyojit Modern Point, Opp Police Petrol Pump, Sharanpur Road, Nashik 422002",
+        "contact": "9665494031"
+    },
+    "invoice_details": {
+        "invoice_number": "LTD/F730/23-24",
+        "delivery_note_reference_no": "LTD/F730/23-24",
+        "date": "29-Jun-23",
+        "items": [
+            {"description": "Fuji DRI-Chem Slide CREPIIIS (24Pcs/Box)", "hsn_sac": "15809475", "quantity": "2 box", "rate": "431.52", "amount": "863.04"},
+            {"description": "Fuji DRI-Chem Slide ALBPS (24Pcs/Box)", "hsn_sac": "15809396", "quantity": "1 box", "rate": "666.14", "amount": "666.14"},
+            {"description": "Fuji DRI-Chem Slide NAKCLS (24Pcs/Box)", "hsn_sac": "15809621", "quantity": "1 box", "rate": "1920.00", "amount": "1920.00"},
+            {"description": "Fuji DRI-Chem Slide GPTPIIS (24Pcs/Box)", "hsn_sac": "15809554", "quantity": "1 box", "rate": "748.80", "amount": "748.80"},
+            {"description": "Fuji DRI-Chem Slide GOTPIIS (24PCS/BOX)", "hsn_sac": "15809542", "quantity": "1 box", "rate": "748.80", "amount": "748.80"},
+            {"description": "Mixing Cups", "hsn_sac": "15622401", "quantity": "3 box", "rate": "1375.66", "amount": "4126.98"},
+            {"description": "FDC DL 11 EX", "hsn_sac": "15809748", "quantity": "3 box", "rate": "750.00", "amount": "2250.00"},
+            {"description": "Fuji DRI-Chem REFERENCE FLUID RE (VIAL", "hsn_sac": "15809786", "quantity": "1 Vial", "rate": "267.60", "amount": "267.60"}
+        ],
+        "tax_rate": ["6%", "6%", "12%", "12%", "12%", "12%", "18%", "12%"],
+        "cgst_amount": ["537.57", "0.00", "231.03", "448.96", "448.96", "744.05", "0.00", "0.00"],
+        "sgst_amount": ["537.57", "0.00", "231.03", "448.96", "448.96", "744.05", "0.00", "0.00"],
+        "total_amount": "10335.24"
+    },
+    "conclusion": {
+        "mobile_number_check": "Passed",
+        "total_check": "Passed"
+    }
+}

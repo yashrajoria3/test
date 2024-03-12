@@ -1,0 +1,67 @@
+Iteration 2:
+
+Follow the step given and convert the input <text> into <json> output by following the given <json_format>
+—-----------------------------------------
+text = <put_input_text_here>
+
+type UOM = unit of measurement of an item
+
+type ITEM_DETAILS = {
+   {
+   "description": String,
+   "hsn_sac": Number,
+   "quantity": String,
+   "rate": Float,
+    "uom":UOM,
+   "amount": Float,
+   "gst_rate":Float,
+}
+
+```
+
+json_format =
+{
+   "seller_details": {
+       "name": String,
+       "address": String,
+        "phone":List[Number],
+       "telephone":List[Number]
+       "gstin": String,
+   },
+   "buyer_details": {
+       "name": String,
+       "address":  String,
+       "email":String,
+       "phone":List[Number],
+       "telephone":List[Number]
+       "gstin": String,
+   },
+   "invoice_details": {
+       "invoice_number": String,
+       "delivery_note_reference_no": String,
+       "date": DateTime,
+       "items": List[ITEM_DETAILS],
+       "cgst_rate": Float,
+       "sgst_rate": Float,
+       "total_cgst_amount": Float,
+       "total_sgst_amount": Float,
+       "total_amount": Float,
+   },
+   {
+       "other_details": Object
+   }
+}
+
+step 1: In first iteration, parse the input data which is a text extracted from an invoice, map the data to structure given above and produce a json output
+
+step 2: After the first iteration, Re-parse the input data in the second iteration and cross-check if that information from input is in the output json. If not in the output ,check if that missing information can be mapped to the output.
+
+step 3: Map the missing information to appropiate field  make sure there are no repetitions in the output and same information is not added twice, although there can be cases when in invoices there can be stock items which can appear more than once so take care of that.
+
+step 4: give the final json output
+
+* Important Note: Make sure to give a complete output.
+
+```
+
+

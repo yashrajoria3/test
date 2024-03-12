@@ -1,0 +1,102 @@
+
+```json
+{
+  "seller_details": {
+    "name": "SHRI HARI AGENCY",
+    "address": "2302,KALA MAROTI ROAD,OPP PRAVIN PHPTO,YEOLA, PH1267087 MO. 7038844387 (ANNA)/7756038038.",
+    "tel": null,
+    "gstin": "27AADPLISS"
+  },
+  "buyer_details": {
+    "name": "SEREE MAHALAXMI KIRANA PAWAR",
+    "address": "TECILA",
+    "contact": null,
+    "gstin": "27A YAPP285691ZS"
+  },
+  "invoice_details": {
+    "invoice_number": "1965",
+    "delivery_note_reference_no": "64",
+    "date": "2021-09-28T00:00:00",
+    "items": [
+      {
+        "description": "S SAHY ELAIC TEA 250GM 90/-",
+        "hsn_sac": 902,
+        "quantity": "1",
+        "rate": 80.0,
+        "amount": 80.0
+      },
+      {
+        "description": "SAHY ELAIC TEA 500G JAR 190/-",
+        "hsn_sac": 902,
+        "quantity": "1",
+        "rate": 90.0,
+        "amount": 90.0
+      },
+      {
+        "description": "PAR HOTEL DUS TEA 2506 105/-",
+        "hsn_sac": 902,
+        "quantity": "1",
+        "rate": 105.0,
+        "amount": 105.0
+      },
+      {
+        "description": "PAR HOTEL OUST TEA IK 400/-",
+        "hsn_sac": 902,
+        "quantity": "1",
+        "rate": 400.0,
+        "amount": 400.0
+      },
+      {
+        "description": "PAR 1KG FR. SHOPPING BAG",
+        "hsn_sac": 0,
+        "quantity": "3",
+        "rate": 0.0,
+        "amount": 0.0
+      },
+      {
+        "description": "SEP SKIM 25+1 HD100G FREE",
+        "hsn_sac": 0,
+        "quantity": "1",
+        "rate": 40.0,
+        "amount": 40.0
+      },
+      {
+        "description": "PARIVAR TEA 26GM 10/-",
+        "hsn_sac": 902,
+        "quantity": "1",
+        "rate": 10.0,
+        "amount": 10.0
+      },
+      {
+        "description": "PARIVAR TEA 250GM 135/-",
+        "hsn_sac": 902,
+        "quantity": "1",
+        "rate": 135.0,
+        "amount": 135.0
+      },
+      {
+        "description": "SEP SKIM 25+ 1 FFB 100G FREE",
+        "hsn_sac": 0,
+        "quantity": "1",
+        "rate": 47.0,
+        "amount": 47.0
+      }
+    ],
+    "tax_rate": [
+      5.0,
+      5.0
+    ],
+    "cgst_amount": [
+      394.27,
+      394.27
+    ],
+    "sgst_amount": [
+      394.27,
+      394.27
+    ],
+    "total_taxable_amount": 15770.39,
+    "total_amount": 16558.92
+  },
+  "other_details": {}
+}
+```

@@ -1,0 +1,87 @@
+{
+ "seller_details": {
+   "name": "DEESAN AGRO TECH. PRIVATE LIMITED UNIT II",
+   "address": "PLOT NO. A 2 M.I.D.C. AWDHAN, DHULE(MS)-424006",
+   "phone": [2562288916, 2562288936],
+   "telephone": [],
+   "gstin": "27AAACD1662N1ZI"
+ },
+ "buyer_details": {
+   "name": "SHRI MAHALAXMI KIRANA (PAWAR) \"YEOLA*\"",
+   "address": "SHANI PATAGAN, NEAR STATE BANK, BUS STAND BACK, City : YEOLA, 423401",
+   "email": "",
+   "phone": [9822679940],
+   "telephone": [],
+   "gstin": "27AYAPP2856P1ZS"
+ },
+ "invoice_details": {
+   "invoice_number": "213226",
+   "delivery_note_reference_no": "SR1850-23/09,",
+   "date": "2021-09-23T00:00:00",
+   "items": [
+     {
+       "description": "PARIVAR 500mISOYA REF(1BOX-20P)",
+       "hsn_sac": 15079,
+       "quantity": "18.200 KGS",
+       "rate": 1310.48,
+       "uom": "500MLB",
+       "amount": 2620.96,
+       "gst_rate": 5.0
+     },
+     {
+       "description": "PARIVAR 1LTR SOYA REF. (1BOX=10PCH)", 
+       "hsn_sac": 15079,
+       "quantity": "45.500 KGS",
+       "rate": 1294.29,
+       "uom": "51LPBOX",
+       "amount": 6471.42,
+       "gst_rate": 5.0
+     },
+     {
+       "description": "PARIVAR 2 LTR SOYA REF(1 BOX=6JAR)",
+       "hsn_sac": 15079,
+       "quantity": "10.920 KGS", 
+       "rate": 1634.29,
+       "uom": "2LJBOX",
+       "amount": 1634.28,
+       "gst_rate": 5.0
+     },
+     {
+       "description": "PARIVAR 5.LTR. SOYA REF.(1BOX=4JAR)",
+       "hsn_sac": 15079,
+       "quantity": "72.800 KGS",
+       "rate": 2641.9,
+       "uom": "5LJBOX", 
+       "amount": 10567.62,
+       "gst_rate": 5.0
+     },
+     {
+       "description": "PARIVAR 15LTR JAR BOX SOYA REF.OIL",
+       "hsn_sac": 15079,
+       "quantity": "68.250 KGS",
+       "rate": 1962.86,
+       "uom": "15LJAR",
+       "amount": 9814.28,
+       "gst_rate": 5.0
+     }
+   ],
+   "cgst_rate": 5.0,
+   "sgst_rate": 5.0,
+   "total_cgst_amount": 777.71,
+   "total_sgst_amount": 777.71,
+   "total_amount": 32664.0
+ },
+ "other_details": {
+   "transport_mode": "By Road",
+   "place_of_supply": "YEOLA.",
+   "vehicle_no": "",
+   "pan": "AAACD1662N",
+   "fssai_lic_no": "10012022000193",
+   "bank_details": {
+     "hdfc_account_no": "06378640000040",
+     "hdfc_ifsc": "HDFC0000637", 
+     "sbi_account_no": "30779306371",
+     "sbi_ifsc": "SBIN0001903"
+   }
+ }
+}

@@ -1,0 +1,104 @@
+{
+    "seller_details": {
+        "name": "CHAMPION ROLLING MILL PVT. LTD.",
+        "address": "GUT NO. -2, 4, 21 & 16, VILLAGE-VARDHA, UCHAT ROAD, TALUKA - WADA, DIST-PALGHAR, WADA 421312, Maharashtra, India",
+        "phone": [
+            7498171756
+        ],
+        "telephone": [],
+        "gstin": "27AACCC3441J1ZS"
+    },
+    "buyer_details": {
+        "name": "M/S NAVANDAR AGRO INDUSTRIES",
+        "address": "B-5, M.ID.C, AMBAD, DIST-NASHIK-422 010",
+        "email": "",
+        "phone": [],
+        "telephone": [],
+        "gstin": "27AATPN5060A1ZP"
+    },
+    "invoice_details": {
+        "invoice_number": "ST/2122/0003060",
+        "delivery_note_reference_no": "",
+        "date": "02/01/2022",
+        "items": [
+            {
+                "description": "MS CHANNEL 200 X 75",
+                "hsn_sac": 72161000,
+                "quantity": "1.290 mts",
+                "rate": 52700.00,
+                "uom": "unit of measurement of an item",
+                "amount": 67983.00,
+                "gst_rate": 9.0
+            },
+            {
+                "description": "MS CHANNEL 125 X 65",
+                "hsn_sac": 72161000,
+                "quantity": "100C mts",
+                "rate": 52700.00,
+                "uom": "unit of measurement of an item",
+                "amount": 52700.00,
+                "gst_rate": 9.0
+            },
+            {
+                "description": "MS CHANNEL 100 X 50",
+                "hsn_sac": 72161000,
+                "quantity": "1,400 mts",
+                "rate": 52000.00,
+                "uom": "unit of measurement of an item",
+                "amount": 75920.00,
+                "gst_rate": 9.0
+            },
+            {
+                "description": "MS CHANNEL 75 X 40",
+                "hsn_sac": 72161000,
+                "quantity": "2.300 mts",
+                "rate": 52000.00,
+                "uom": "unit of measurement of an item",
+                "amount": 119600.00,
+                "gst_rate": 9.0
+            },
+            {
+                "description": "MS CHANNEL 70 X 35",
+                "hsn_sac": 72161000,
+                "quantity": "0.550 mts",
+                "rate": 52400.00,
+                "uom": "unit of measurement of an item",
+                "amount": 28820.00,
+                "gst_rate": 9.0
+            },
+            {
+                "description": "MS ANGLE 50 X 50 X 6",
+                "hsn_sac": 72162100,
+                "quantity": "0.610 mts",
+                "rate": 51200.00,
+                "uom": "unit of measurement of an item",
+                "amount": 31232.00,
+                "gst_rate": 9.0
+            },
+            {
+                "description": "M.S. ANGLE 65 X 65 X 6",
+                "hsn_sac": 72162100,
+                "quantity": "0.960 mts",
+                "rate": 51400.00,
+                "uom": "unit of measurement of an item",
+                "amount": 49344.00,
+                "gst_rate": 9.0
+            },
+            {
+                "description": "LOADING CHARGES",
+                "hsn_sac": 54281011,
+                "quantity": "8.170 mts",
+                "rate": 51400.00,
+                "uom": "unit of measurement of an item",
+                "amount": 150.00,
+                "gst_rate": 9.0
+            }
+        ],
+        "cgst_rate": 9.0,
+        "sgst_rate": 9.0,
+        "total_cgst_amount": 38414.21,
+        "total_sgst_amount": 38414.21,
+        "total_amount": 426824.50
+    },
+    "other_details": {}
+}

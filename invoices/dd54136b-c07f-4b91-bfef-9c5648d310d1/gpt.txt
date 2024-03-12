@@ -1,0 +1,36 @@
+{
+    "seller_details": {
+        "name": "SHUBHAM AGENCIES",
+        "address": "SHOP NO 4, LOWER GROUND FLOOR, KAVERI SANKUL, 422001 (M. $)",
+        "phone_numbers": ["9822548180", "9422611208"],
+        "gstin": "27ABDFM0758K1Z1",
+        "state": "MAHARASHTRA"
+    },
+    "invoice_details": {
+        "products": [
+            {"description": "LABTUBE EDTA K3", "hsn_code": "9018", "quantity": "100'S", "rate": "12.00", "amount": "1200.00"},
+            {"description": "LABTUBE EDTA K3", "hsn_code": "9018", "quantity": "100'S", "rate": "12.00", "amount": "1200.00"},
+            {"description": "LABTUBE CLOT ACT 4 ML SOFTN", "hsn_code": "9018", "quantity": "100'S", "rate": "12.00", "amount": "1200.00"}
+        ],
+        "gross_amount": "1140.00",
+        "taxable_amount": "1140.00",
+        "cgst_amount": "68.40",
+        "sgst_amount": "60.40",
+        "total_amount": "1277.00",
+        "invoice_number": "INV.UT",
+        "date": "02/06/2023"
+    },
+    "buyer_details": {
+        "name": "BLOODCARE HE DIAGNOSTIC CENTER",
+        "address": "NASHIK",
+        "gstin": null,
+        "state": "MAHARASHTRA"
+    },
+    "bank_details": {
+        "bank_name": "BANK OF MAHARASHTRA",
+        "ifsc_code": "MAHB0000214",
+        "account_number": "60252441429/6"
+    },
+    "declaration": "I/We hereby declare that this invoice shows the actual price of the goods described above and that all particulars are true and correct. This invoice shall be subject to the jurisdiction of the NASHIK.",
+    "authorized_signatory": "Authorised signatory"
+}

@@ -1,0 +1,85 @@
+```json
+{
+  "seller_details": {
+    "name": "LIFETIME DIAGNOSTICS PRIVATE LIMITED",
+    "address": "701 7TH FLOOR MADHU INDUSTRIAL PARK. MARG, AVADH NARAYAN TIWAR BI (EAST) MOGRA VILLAGE.",
+    "tel": "0223200/220/224",
+    "gstin": "27AAECL2562R1ZX"
+  },
+  "buyer_details": {
+    "name": "Blood Care Hematology Clinic",
+    "address": "G1, Suyojit Modern Point, Opp Police Petrol Pump, Sharanpur Road, Nashik - 422002 Maharashtra - 422002, India",
+    "contact": "Tel No.: 9665494031",
+    "gstin": "27"
+  },
+  "invoice_details": {
+    "invoice_number": "LTD/F730/23-24",
+    "delivery_note_reference_no": "LTD/F730/23-24 dt. 29-Jun-23",
+    "date": "2023-06-29T00:00:00",
+    "items": [
+      {
+        "description": "(15809475) Fuji DRI-Chem Slide CREPIIIS (24Pcs/Box) Mfg By: Fuji Film India Pvt Ltd Batch 272005 Expiry: 31-Jul-24",
+        "hsn_sac": 38220090,
+        "quantity": "2 box",
+        "rate": 431.52,
+        "amount": 863.04
+      },
+      {
+        "description": "(15809396) Fuji DRI-Chem Slide ALBPS (24Pcs/Box) Mfg By: Fuji Film India Pvt Ltd Batch 168710 Expiry: 30-Jun-24",
+        "hsn_sac": 38220090,
+        "quantity": "1 box",
+        "rate": 666.14,
+        "amount": 666.14
+      },
+      {
+        "description": "(15809621) Fuji DRI-Chem Slide NAKCLS (24Pcs/Box) Mfg By: Fuji Film India Pvt Ltd Batch: 149614 Expiry: 31-Mar-24",
+        "hsn_sac": 38220090,
+        "quantity": "1 box",
+        "rate": 1920.0,
+        "amount": 1920.0
+      },
+      {
+        "description": "(15809554) Fuji DRI-Chem Slide GPTPIIS (24Pcs/Box) Mfg By: Fuji Film India Pvt Ltd Batch : 426209 Expiry: 30-Apr-24",
+        "hsn_sac": 38220090,
+        "quantity": "3 box",
+        "rate": 748.8,
+        "amount": 2246.4
+      },
+      {
+        "description": "(15809542) Fuji DRI-Chem Slide GOTPIIS (24PCS/BOX) Mfg By: Fuji Film India Pvt Ltd Batch 487804 Expiry: 30-Apr-24",
+        "hsn_sac": 38220090,
+        "quantity": "3 box",
+        "rate": 748.8,
+        "amount": 2246.4
+      },
+      {
+        "description": "(15622401) Mixing Cups Batch 20304",
+        "hsn_sac": 39269099,
+        "quantity": "1 no",
+        "rate": 1375.66,
+        "amount": 1375.66
+      },
+      {
+        "description": "(15809748) FDC DL 11 EX Batch 71531",
+        "hsn_sac": 38220090,  
+        "quantity": "1 box",
+        "rate": 750.0,
+        "amount": 750.0
+      },
+      {
+        "description": "(15809786) Fuji DRI-CHEM REFERENCE FLUID RE (VIAL Batch:60839 Expiry: 28-Feb-25",
+        "hsn_sac": 38220090,
+        "quantity": "1 Vial",
+        "rate": 267.6,
+        "amount": 267.6
+      }
+    ],
+    "tax_rate": [6.0, 6.0],
+    "cgst_amount": [537.57],
+    "sgst_amount": [537.57],
+    "total_taxable_amount": 10335.24,
+    "total_amount": 11410.38
+  },
+  "other_details": {}
+}
+```

@@ -1,0 +1,48 @@
+{
+    "seller_details": {
+        "name": "CHITRA GROUP OF PRODUCTS",
+        "address": "124 ROOPRAM NAGAR, INDORE, MADHYA PRADESH",
+        "phone": [],
+        "telephone": [],
+        "gstin": "23AAJFC4547K1ZC"
+    },
+    "buyer_details": {
+        "name": "JANTA STORES-NASHIK",
+        "address": "768, GANUPAGAGA LINE RAVIWAR PETH, NASIK NASHIK",
+        "email": "",
+        "phone": [],
+        "telephone": [],
+        "gstin": "27ASWPS1528D1ZD"
+    },
+    "invoice_details": {
+        "invoice_number": "VI-197",
+        "delivery_note_reference_no": "",
+        "date": "12-Jul-2023",
+        "items": [
+            {
+                "description": "PMJASMINE HAIR OIL 22 ML",
+                "hsn_sac": 3305,
+                "quantity": "100 Dozen",
+                "rate": 50.8474,
+                "uom": "Dozen",
+                "amount": 5084.74,
+                "gst_rate": 18
+            },
+            {
+                "description": "VM.COCO LIGHT HAIR OIL 60ML",
+                "hsn_sac": 3305,
+                "quantity": "42 Dozen",
+                "rate": 101.6949,
+                "uom": "Dozen",
+                "amount": 4271.19,
+                "gst_rate": 18
+            }
+        ],
+        "cgst_rate": 0,
+        "sgst_rate": 0,
+        "total_cgst_amount": 0,
+        "total_sgst_amount": 0,
+        "total_amount": 14280.00
+    },
+    "other_details": {}
+}

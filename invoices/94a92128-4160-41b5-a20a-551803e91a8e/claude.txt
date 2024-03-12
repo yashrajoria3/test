@@ -1,0 +1,33 @@
+{
+ "supplierDetails": {
+   "name": "Yogeshwar Auto Springs",
+   "address": "Harish Shopping Centre, Near M.S. Kothari School, A.B. Road, Dwarka, Nasik",
+   "phoneNo": "(0253) 2500940",
+   "gstinNo": "27AEOPB3580N1Z2"
+ },
+ "customerDetails": {
+   "name": "Navandar Agro Industry",
+   "address": "Ambad, Nasik",
+   "gstinNo": "27AATPN5060A1ZP"
+ },
+ "vehicleNo": null,
+ "invoiceNo": "504",
+ "invoiceDate": "14/10/21",
+ "lineItems": [
+   {
+     "description": "Bolt WN2t 10x72x16", 
+     "hsn": "7318",
+     "gstRate": 18,
+     "qty": 15,
+     "rate": 107,
+     "amount": 1605
+   }
+ ],
+ "taxableValue": 1605,
+ "cgstRate": 9,
+ "cgstAmount": 144.5,
+ "sgstRate": 9,
+ "sgstAmount": 144.5,
+ "totalAmount": 1894,
+ "amountInWords": "One thomand ei night hundred & minty four only"
+}

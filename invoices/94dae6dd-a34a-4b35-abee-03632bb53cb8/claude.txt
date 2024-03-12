@@ -1,0 +1,136 @@
+{
+ "supplierDetails": {
+   "name": "LIFETIME DIAGNOSTICS PRIVATE LIMITED",
+   "address": "701 7TH FLOOR MADHU INDUSTRIAL PARK. MARG, AVADH NARAYAN TIWARI (EAST) MOGRA VILLAGE.",
+   "city": "MUMBAI",
+   "pincode": "400069",
+   "gstinNo": "27AAECL2562R1ZX",
+   "phoneNo": "0223200/220/224",
+   "stateCode": "27",
+   "stateName": "Maharashtra"
+ },
+ "consigneeDetails": {
+   "name": "Blood Care Hematology Clinic",
+   "address": "G1, Suyojit Modern Point, Opp Police Petrol Pump, Sharanpur Road, Nashik - 422002",
+   "state": "Maharashtra",
+   "stateCode": "27"
+ },
+ "buyerDetails": {
+   "name": "Blood Care Hematology Clinic",
+   "address": "G1, Suyojit I Road, Nashik -422002 Pump She Point, Opp Police Petrol",
+   "state": "Maharashtra",
+   "stateCode": "27",
+   "contactNo": "9665494031"
+ },
+ "invoiceNo": "LTD/F730/23-24",
+ "referenceNoDate": "LTD/F730/23-24 dt. 29-Jun-23",
+ "buyerOrderNo": null,
+ "dispatchDocNo": null,
+ "dispatchDocDate": "29-Jun-23",
+ "paymentTerms": "30 Days",
+ "otherReferences": null,
+ "deliveryNoteDate": null,
+ "dispatchThrough": null,
+ "destination": null,
+ "termsOfDelivery": null,
+ "placeOfSupply": null,
+ "lineItems": [
+   {
+     "description": "(15809475) Fuji DRI-Chem Slide CREPIIIS (24Pcs/Box)",
+     "mfgBy": "Fuji Film India Pvt Ltd",
+     "hsn": "38220090",
+     "gstRate": 12,
+     "qty": 2,
+     "rate": 431.52,
+     "per": "box",
+     "amount": 863.04,
+     "batch": "272005",
+     "expiry": "31-Jul-24"
+   },
+   {
+     "description": "(15809396) Fuji DRI-Chem Slide ALBPS (24Pcs/Box)",
+     "mfgBy": "Fuji Film India Pvt Ltd",
+     "hsn": "38220090",
+     "gstRate": 12,
+     "qty": 1,
+     "rate": 666.14,
+     "per": "box",
+     "amount": 666.14,
+     "batch": "168710",
+     "expiry": "30-Jun-24"
+   },
+   {
+     "description": "(15809621) Fuji DRI-Chem Slide NAKCLS (24Pcs/Box)",
+     "mfgBy": "Fuji Film India Pvt Ltd",
+     "hsn": "38220090",
+     "gstRate": 12,
+     "qty": 1,
+     "rate": 1920,
+     "per": "box",
+     "amount": 1920,
+     "batch": "149614", 
+     "expiry": "31-Mar-24"
+   },
+   {
+     "description": "(15809554) Fuji DRI-Chem Slide GPTPIIS (24Pcs/Box)",
+     "mfgBy": "Fuji Film India Pvt Ltd",
+     "hsn": "38220090",
+     "gstRate": 12,
+     "qty": 3,
+     "rate": 748.8,
+     "per": "box",
+     "amount": 2246.4,
+     "batch": "426209",
+     "expiry": "30-Apr-24"
+   },
+   {
+     "description": "(15809542) Fuji DRI-Chem Slide GOTPIIS (24PCS/BOX)", 
+     "mfgBy": "Fuji Film India Pvt Ltd",
+     "hsn": "38220090",
+     "gstRate": 12,
+     "qty": 3,
+     "rate": 748.8,
+     "per": "box",
+     "amount": 2246.4,
+     "batch": "487804",
+     "expiry": "30-Apr-24"
+   },
+   {
+     "description": "(15622401) Mixing Cups",
+     "hsn": "39269099",
+     "gstRate": 18,
+     "qty": 1,
+     "rate": 1375.66,
+     "per": "no",
+     "amount": 1375.66,
+     "batch": "20304"
+   },
+   {
+     "description": "(15809748) FDC DL 11 EX",
+     "hsn": "38220090",
+     "gstRate": 12,
+     "qty": 1,
+     "rate": 750,
+     "per": "box",
+     "amount": 750,
+     "batch": "71531",
+     "expiry": "30-Apr-24"
+   },
+   {
+     "description": "(15809786) Fuji DRI-CHEM REFERENCE FLUID RE (VIAL",
+     "hsn": "38220090",
+     "gstRate": 12,
+     "qty": 1,
+     "rate": 267.6,
+     "per": "Vial",
+     "amount": 267.6,
+     "batch": "60839",
+     "expiry": "28-Feb-25"
+   }
+ ],
+ "taxableAmount": 10335.24,
+ "cgstRate": 6,
+ "cgstAmount": 537.57,
+ "sgstRate": 6,
+ "sgstAmount": 537.57
+}

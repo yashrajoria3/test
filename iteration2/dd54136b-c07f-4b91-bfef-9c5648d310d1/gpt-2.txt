@@ -1,0 +1,66 @@
+{
+  "seller_details": {
+    "name": "SHUBHAM AGENCIES",
+    "address": "SHOP NO 4 LOWER GROUND FLOOR, KAVERI SANKUL",
+    "phone": ["9822548180", "9422611208"],
+    "gstin": "27ABDFM0758K1Z1"
+  },
+  "buyer_details": {
+    "name": "TOLOGY CLINIC & BLOODCARE HE DIAGNOSTIC CENTER.",
+    "address": "422001 (M. S. )",
+    "email": "",
+    "phone": [],
+    "gstin": ""
+  },
+  "invoice_details": {
+    "invoice_number": "INV 387",
+    "delivery_note_reference_no": "",
+    "date": "02/06/2023",
+    "items": [
+      {
+        "description": "LABTURE EDTA K3",
+        "hsn_sac": 9018,
+        "quantity": "100'S",
+        "rate": 190.00,
+        "uom": "LBT",
+        "amount": 380.00,
+        "gst_rate": 12.00
+      },
+      {
+        "description": "LABTUBE EDTA K3",
+        "hsn_sac": 9018,
+        "quantity": "100'S",
+        "rate": 190.00,
+        "uom": "LBT",
+        "amount": 190.00,
+        "gst_rate": 12.00
+      },
+      {
+        "description": "LABTUBE CLOT ACT 4 MI",
+        "hsn_sac": 0.0,
+        "quantity": "100'S",
+        "rate": 190.00,
+        "uom": "LBT",
+        "amount": 570.00,
+        "gst_rate": 0.0
+      }
+    ],
+    "cgst_rate": 0.0,
+    "sgst_rate": 0.0,
+    "total_cgst_amount": 0.0,
+    "total_sgst_amount": 0.0,
+    "total_amount": 1277.00
+  },
+  "other_details": {
+    "bank_details": {
+      "bank": "BANK OF MAHARASHTRA",
+      "ifsc": "MAHB0000214",
+      "account_number": "60252441429",
+      "account_holder": "RAJENDRA"
+    },
+    "declaration": "The goods and or services Error and Omission in the 1/ late that this invoice shows actual price of described and that all particulars are true and correct this voice shall be subject to Jurisdiction of the NASHIK",
+    "gross": 1140.00,
+    "gst_amount": 136.80,
+    "net_amount": 1277.00
+  }
+}

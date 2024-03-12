@@ -1,0 +1,131 @@
+{
+ "seller_details": {
+   "name": "SHRI HARI AGENCY",
+   "address": "28/09/2021 2302,KALA MAROTI ROAD,OPP PRAVIN PHPTO,YEOLA, PH1267087 MO. 7038844387 (ANNA)/7756038038.",
+   "phone": [7038844387, 7756038038],
+   "telephone": [],
+   "gstin": "27AADPLISS"
+ },
+ "buyer_details": {
+   "name": "SEREE MAHALAXMI KIRANA PAWAR",
+   "address": "TECILA",
+   "email": "",
+   "phone": [],
+   "telephone": [],
+   "gstin": "27A YAPP285691ZS"
+ },
+ "invoice_details": {
+   "invoice_number": "1965",
+   "delivery_note_reference_no": "D.C. No: 64",
+   "date": "11/09/2021",
+   "items": [
+     {
+       "description": "SAHY ELAIC TEA 250GM",
+       "hsn_sac": 902,
+       "quantity": "1",
+       "rate": 80.0,
+       "uom": "N",
+       "amount": 80.0,
+       "gst_rate": 5.0
+     },
+     {
+       "description": "SAHY ELAIC TEA 500G JAR",
+       "hsn_sac": 902,
+       "quantity": "1",
+       "rate": 190.0,
+       "uom": "N",
+       "amount": 190.0,
+       "gst_rate": 5.0
+     },
+     {
+       "description": "PAR. HOTE DUST TEA 30G",
+       "hsn_sac": 902,
+       "quantity": "1",
+       "rate": 10.0,
+       "uom": "N",
+       "amount": 10.0,
+       "gst_rate": 5.0
+     },
+     {
+       "description": "PAR HOTEL DUS TEA 2506",
+       "hsn_sac": 902,
+       "quantity": "1",
+       "rate": 105.0,
+       "uom": "N",
+       "amount": 105.0,
+       "gst_rate": 5.0
+     },
+     {
+       "description": "PAR HOTEL DUST 500G",
+       "hsn_sac": 902,
+       "quantity": "1",
+       "rate": 200.0,
+       "uom": "N",
+       "amount": 200.0,
+       "gst_rate": 5.0
+     },
+     {
+       "description": "PAR HOTEL OUST TEA IK",
+       "hsn_sac": 902,
+       "quantity": "1",
+       "rate": 400.0,
+       "uom": "N",
+       "amount": 400.0,
+       "gst_rate": 5.0
+     },
+     {
+       "description": "PAR 1KG FR. SHOPPING BAG",
+       "hsn_sac": 0,
+       "quantity": "3",
+       "rate": 0.0,
+       "uom": "N",
+       "amount": 0.0,
+       "gst_rate": 5.0
+     },
+     {
+       "description": "SEP SKIM 25+1 HD100G FREE",
+       "hsn_sac": 0,
+       "quantity": "6",
+       "rate": 40.0,
+       "uom": "N",
+       "amount": 240.0,
+       "gst_rate": 0.0
+     },
+     {
+       "description": "PARIVAR TEA 26GM",
+       "hsn_sac": 902,
+       "quantity": "1",
+       "rate": 10.0,
+       "uom": "N",
+       "amount": 10.0,
+       "gst_rate": 5.0
+     },
+     {
+       "description": "PARIVAR TEA 250GM",
+       "hsn_sac": 902,
+       "quantity": "1",
+       "rate": 135.0,
+       "uom": "N", 
+       "amount": 135.0,
+       "gst_rate": 5.0
+     },
+     {
+       "description": "SEP SKIM 25+ 1 FFB 100G FREE",
+       "hsn_sac": 0,
+       "quantity": "126",
+       "rate": 47.0,
+       "uom": "N",
+       "amount": 5922.0,
+       "gst_rate": 0.0
+     }
+   ],
+   "cgst_rate": 5.0, 
+   "sgst_rate": 5.0,
+   "total_cgst_amount": 394.27,
+   "total_sgst_amount": 394.27,
+   "total_amount": 16558.92
+ },
+ "other_details": {
+   "fssai_no": ["11515028000440", "11516028000090"]
+ }
+}

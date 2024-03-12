@@ -1,0 +1,95 @@
+{
+  "Invoice Number": "1965",
+  "Invoice Date": "11/09/2021",
+  "Sender": {
+    "Name": "SHRI HARI AGENCY",
+    "Address": "2302,KALA MAROTI ROAD,OPP PRAVIN PHPTO,YEOLA"
+  },
+  "Receiver": {
+    "Name": "SEREE MAHALAXMI KIRANA PAWAR",
+    "Address": ""
+  },
+  "Stock Items": [
+    {
+      "Name": "SAHYADRI RED TEA ",
+      "Qty": "250G",
+      "Rate": "80/-",
+      "Amount": "80.00"
+    },
+    {
+      "Name": "SAHY ELAIC TEA 250GM",
+      "Qty": "",
+      "Rate": "90/-",
+      "Amount": "90.00"
+    },
+    {
+      "Name": "SAHY ELAIC TEA 500G JAR",
+      "Qty": "",
+      "Rate": "190/-",
+      "Amount": "190.00"
+    },
+    {
+      "Name": "PAR. HOTE DUST TEA 30G",
+      "Qty": "",
+      "Rate": "10/-",
+      "Amount": "10.00"
+    },
+    {
+      "Name": "PAR HOTEL DUS TEA 2506",
+      "Qty": "",
+      "Rate": "105/-",
+      "Amount": "105.00"
+    },
+    {
+      "Name": "PAR HOTEL DUST 500G",
+      "Qty": "",
+      "Rate": "200/-",
+      "Amount": "200.00"
+    },
+    {
+      "Name": "PAR HOTEL OUST TEA IK",
+      "Qty": "",
+      "Rate": "400/-",
+      "Amount": "400.00"
+    },
+    {
+      "Name": "PAR 1KG FR. SHOPPING BAG",
+      "Qty": "",
+      "Rate": "0.00",
+      "Amount": "0.00"
+    },
+    {
+      "Name": "PARIVAR TEA 26GM",
+      "Qty": "",
+      "Rate": "10/-",
+      "Amount": "10.00"
+    },
+    {
+      "Name": "PARIVAR TEA 250GM",
+      "Qty": "",
+      "Rate": "135/-",
+      "Amount": "135.00"
+    },
+    {
+      "Name": "PARIVAR TEA 500G",
+      "Qty": "",
+      "Rate": "200/-",
+      "Amount": "200.00"
+    },
+    {
+      "Name": "6 SEP SKIM 25+1 HD100G FREE",
+      "Qty": "",
+      "Rate": "0.00",
+      "Amount": "0.00"
+    },
+    {
+      "Name": "6 SEP SKIM 25+ 1 FFB 100G FREE",
+      "Qty": "",
+      "Rate": "0.00",
+      "Amount": "0.00"
+    }
+  ],
+  "Total Amount": "16,558.92",
+  "GSTIN": "27A YAPP285691ZS",
+  "FSSAI LIC NO.": "11515028000440"
+}

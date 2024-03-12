@@ -1,0 +1,40 @@
+{
+  "Invoice Number": "504",
+  "Invoice Date": "14/10/21",
+  "Sender": {
+    "Name": "Yogeshwar Auto Springs",
+    "Address": "Harish Shopping Centre, Near M.S. Kothari School, A.B. Road, Dwarka, Nasik.",
+    "Contact": "(0253) 2500940",
+    "GSTIN": "27AEOPB3580N1Z2",
+    "Email": "anandindustries333@gmail.com",
+    "Phone": "96576 33333, 96573 66666"
+  },
+  "Receiver": {
+    "Name": "Navandar Agro Industry",
+    "Address": "Ambad, Nasik",
+    "GSTIN": "27AATPN5060A1ZP"
+  },
+  "Items": [
+    {
+      "Description": "Bolt WN2t 10x72x16",
+      "HSN": "7318",
+      "GST%": "18",
+      "Qty": "15",
+      "Rate": "107",
+      "Amount": "1605"
+    }
+  ],
+  "Taxable Value": "1605",
+  "Central Tax": {
+    "Rate": "9%",
+    "Amount": "144.5"
+  },
+  "State Tax": {
+    "Rate": "9%",
+    "Amount": "144.5"
+  },
+  "Total Amount": "1894",
+  "Amount in Words": "Rupees One thousand eight hundred and ninety-four only",
+  "Declaration": "We hereby certify that my/our registration certificate under the Goods and Service Tax Act 2017 is in force on the date on which the sale of the Goods & Service specified in this 'Tax Invoice' is made by me plus and that the transaction of Goods & Supply covered by this tax invoice has been effected by me/us and it shall be accounted for in the turnover of Goods & Service while filling of return and the due tax if any, payable on the Goods & Service has been paid or shall be paid",
+  "Additional Information": "For Yogeshwar Auto Springs: W-100, MIDC Industrial Area, Waluj, Aurangabad - 431 133."
+}

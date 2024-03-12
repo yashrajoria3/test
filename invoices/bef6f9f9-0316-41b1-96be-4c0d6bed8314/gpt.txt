@@ -1,0 +1,37 @@
+{
+    "seller_details": {
+        "name": "DEESAN AGRO TECH PRIVATE LIMITED",
+        "address": "UNIT II PLOT NO. A2 M.I.D.C. AWDHAN, DHULE (MS) -424006",
+        "phone": "02562-288916, 288936",
+        "email": "oil@deesan.com",
+        "gstin": "27AAACD1662N1ZI",
+        "fssai_lic_no": "10012022000193"
+    },
+    "buyer_details": {
+        "name": "SHRI MAHALAXMI KIRANA (PAWAR) YEOLA",
+        "address": "SHANI PATAGAN, NEAR STATE BANK, BUS STAND BACK, YEOLA - 423401",
+        "pan": "AYAPP2856P",
+        "phone": "9822679940",
+        "gstin": "27AYAPP2856P1ZS"
+    },
+    "invoice_details": {
+        "invoice_number": "213226",
+        "po_no": "SR1850-23/09",
+        "sauda_no": "150790",
+        "date": "23/09/2021",
+        "items": [
+            {"description": "PARIVAR 500mISOYA REF (1BOX = 20P)", "hsn_sac": null, "quantity": "51 LPBOX", "rate": "1310.48", "amount": "66871.98"},
+            {"description": "PARIVAR 1LTR SOYA REF. (1BOX = 10PCH)", "hsn_sac": null, "quantity": "2 LJBOX", "rate": "1294.29", "amount": "2588.58"},
+            {"description": "PARIVAR 2 LTR SOYA REF (1 BOX = 6 JAR)", "hsn_sac": null, "quantity": "4 5LJBOX", "rate": "1634.29", "amount": "654.69"},
+            {"description": "PARIVAR 5.LTR.SOYA REF. (1BOX = 4 JAR)", "hsn_sac": null, "quantity": "5 15LJAR", "rate": "2641.90", "amount": "1320.95"}
+        ],
+        "tax_rate": ["5%", "5%", "5%", "5%"],
+        "igst_amount": null,
+        "cgst_amount": ["2620.96", "1634.28", "0.00", "0.00"],
+        "sgst_amount": ["2620.96", "1634.28", "0.00", "0.00"],
+        "total_amount": "32664.00"
+    },
+    "conclusion": {
+        "total_check": "Passed"
+    }
+}

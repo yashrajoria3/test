@@ -1,0 +1,52 @@
+{
+"seller_details": {
+"name": "SHUBHAM AGENCIES",
+"address": "SHOP NO 4 LOWER GROUND FLOOR, KAVERI SANKUL",
+"tel": "",
+"gstin": ""
+},
+"buyer_details": {
+"name": "TOLOGY CLINIC & BLOODCARE HE DIAGNOSTIC CENTER.",
+"address": "422001 (M. S. )",
+"contact": "9822548180\n9422611208",
+"gstin": "27ABDFM0758K1Z1"
+},
+"invoice_details": {
+"invoice_number": "INV 387",
+"delivery_note_reference_no": "",
+"date": "02/06/2023",
+"items": [
+{
+"description": "LABTURE EDTA K3 LBT 100'S",
+"hsn_sac": 9018,
+"quantity": "2",
+"rate": 190.00,
+"amount": 380.00
+},
+{
+"description": "LABTUBE EDTA K3 LBT 100'S",
+"hsn_sac": 9018,
+"quantity": "1",
+"rate": 190.00,
+"amount": 190.00
+},
+{
+"description": "LABTUBE CLOT ACT 4 MI LBT 100'S",
+"hsn_sac": 9018,
+"quantity": "3",
+"rate": 190.00,
+"amount": 570.00
+}
+],
+"tax_rate": [],
+"cgst_amount": [],
+"sgst_amount": [],
+"total_taxable_amount": 1140.00,
+"total_amount": 1277.00
+},
+"other_details": {}
+}
+
+
+
+

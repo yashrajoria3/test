@@ -1,0 +1,70 @@
+{
+  "Invoice Number": "C12400171",
+  "Invoice Date": "19-May-23",
+  "Sender": {
+    "Name": "Vertice Global Private Limited",
+    "Address": "SY No.238, Keshavaram Village, Medchal - Malkajgiri Dist, Hyderabad - 500101, Telangana",
+    "Contact": "Tel-0223200/220/224",
+    "GSTIN/UIN": "27AAECL2562R1ZX",
+    "Email": "accounts@verticeglobal.in",
+    "Phone": ""
+  },
+  "Receiver": {
+    "Name": "Janata Stores",
+    "Address": "768, GANUPAGAGA LANE, RAVIWAR PETH, Nashik, Maharashtra, 422001",
+    "GSTIN/UIN": "",
+    "State Name": "Maharashtra"
+  },
+  "Items": [
+    {
+      "Description": "ShaveX Platinum Saloon Pack - DE2P202(VSSL200) 10000 Blades Per Carton",
+      "HSN/SAC": "82122019",
+      "GST": "18%",
+      "Quantity": "2.00 carton's",
+      "Rate": "7,203.39",
+      "Amount": "14,406.72"
+    },
+    {
+      "Description": "Vertice One Saloon Pack - DE2S102 10000 Blades Per Carton",
+      "HSN/SAC": "82122019",
+      "GST": "18%",
+      "Quantity": "4.00 carton's",
+      "Rate": "6,016.95",
+      "Amount": "24,067.80"
+    },
+    {
+      "Description": "ShaveX 3 Piece Metal Razor - AC2201 6 Inners Per Carton",
+      "HSN/SAC": "82122019",
+      "GST": "18%",
+      "Quantity": "1.00 carton's",
+      "Rate": "3,233.90",
+      "Amount": "3,233.90"
+    },
+    {
+      "Description": "Vertice Shavex Classic Shaving Foam 500ML - TO2201 500ml 12 Cans Per Carton",
+      "HSN/SAC": "33071010",
+      "GST": "18%",
+      "Quantity": "3.0000 No's",
+      "Rate": "838.98",
+      "Amount": "2,516.94"
+    },
+    {
+      "Description": "Silvermax Double Edge Saloon Pack - DE2P302 10000 Blades Per Carton",
+      "HSN/SAC": "82122019",
+      "GST": "18 %",
+      "Quantity": "1.00 carton's",
+      "Rate": "8,220.34",
+      "Amount": "8,220.34"
+    }
+  ],
+  "Total Taxable Value": "49,928.82",
+  "Total Tax Amount": "9,440.23",
+  "Total Amount": "61,886.00",
+  "Amount in Words": "INR Sixty One Thousand Eight Hundred Eighty Six Only",
+  "Declaration": "1. Our responsibility ceases once the goods leave our factory. 2. Interest on overdue payments will be charged at 24% per annum. 3. Cheques / DD should be drawn on 'VERTICE GLOBAL PRIVATE LIMITED' payable at Hyderabad. 4. All disputes are Subject to Hyderabad Jurisdiction only. 5. Prices are subject to revision without notice. 6. Goods once sold cannot be taken back or exchanged. 7. Supplies are Subject to Force Majeure Conditions",
+  "Bank Details": {
+    "Bank Name": "ICICI BANK - CC Account",
+    "A/c No.": "000851000350",
+    "Branch & IFS Code": "Commercial Branch & ICIC0000008"
+  }
+}

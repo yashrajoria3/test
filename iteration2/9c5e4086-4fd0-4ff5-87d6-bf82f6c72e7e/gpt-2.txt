@@ -1,0 +1,108 @@
+{
+    "seller_details": {
+        "name": "SHIVAY ENTERPRISES",
+        "address": "Shop No.256, Gangamai Industrial Estate, Ambad, Nashik-422010",
+        "phone": [8888551555],
+        "telephone": []
+        "gstin": "27BEGPB8352F1ZM"
+    },
+    "buyer_details": {
+        "name": "NAWANDAR AGRO INDUSTRY",
+        "address": "Plot no -b/5 Ambad MIDC Nashik - 422 010, Maharashtra",
+        "email": "shivayentep@gmail.com",
+        "phone": [],
+        "telephone": []
+        "gstin": "27AATPN5060A1ZP"
+    },
+    "invoice_details": {
+        "invoice_number": "SE0111",
+        "delivery_note_reference_no": "",
+        "date": "2021-05-14",
+        "items": [
+            {
+                "description": "VENKATESH Make 70S-6 CO2 MIG WIRE 0.80MM 15.000KG PACKING",
+                "hsn_sac": 72173010,
+                "quantity": "45 kg",
+                "rate": 96.0,
+                "uom": "kg",
+                "amount": 4320.0,
+                "gst_rate": 18.0
+            },
+            {
+                "description": "VENKATESH Make 70S-6 CO2 MIG WIRE 1.20MM 15.000KG PACKING",
+                "hsn_sac": 72173010,
+                "quantity": "15 kg",
+                "rate": 95.0,
+                "uom": "kg",
+                "amount": 1425.0,
+                "gst_rate": 18.0
+            },
+            {
+                "description": "plasma nozzle And Electrode 1.90",
+                "hsn_sac": 8515,
+                "quantity": "10 nos",
+                "rate": 75.0,
+                "uom": "nos",
+                "amount": 750.0,
+                "gst_rate": 18.0
+            },
+            {
+                "description": "contact tip 0.80 m8*30",
+                "hsn_sac": 8515,
+                "quantity": "10 nos",
+                "rate": 20.0,
+                "uom": "nos",
+                "amount": 200.0,
+                "gst_rate": 18.0
+            },
+            {
+                "description": "Anti Spatter Spary",
+                "hsn_sac": 8515,
+                "quantity": "2 nos",
+                "rate": 100.0,
+                "uom": "nos",
+                "amount": 200.0,
+                "gst_rate": 18.0
+            }
+        ],
+        "cgst_rate": 9.0,
+        "sgst_rate": 9.0,
+        "total_cgst_amount": 620.55,
+        "total_sgst_amount": 620.55,
+        "total_amount": 8136.0
+    },
+    "other_details": {
+        "Place of Supply": "Maharashtra",
+        "Mode/Term of Payment": "",
+        "Supplier's Ref": "",
+        "Other Referance(S)": "",
+        "PONO": "",
+        "Dated": "2021-07-02",
+        "Despatch Document No.": "",
+        "Delivery Note Date": "",
+        "Despatched through": "",
+        "Destination": "",
+        "Terms of Delivery": "",
+        "Round off": -0.1,
+        "CGST": "9%",
+        "SGST": "9%",
+        "Total Amount chargeable (in Words)": "Indian Rupees Eight thousand One Hundred Thirty Six only",
+        "Taxable": {
+            "Central Tax": {
+                "value": 6895.0,
+                "Rate/Amount": 620.55
+            },
+            "State Tax": {
+                "Rate/Amount": 620.55
+            }
+        },
+        "Company's Pan": "BEGPB8352F",
+        "Declaration": "We declare that this invoice shows the actual price of goods described and that all particulars are true and correct..",
+        "Customer's Seal and Signature": "",
+        "Company's Bank Details": {
+            "Bank Name": "VISHWAS CO-OP BANK LIMITED",
+            "A/c No.": "002002100001351",
+            "Branch & IFS Code": "HDFCOCVCBLN"
+        }
+    }
+}

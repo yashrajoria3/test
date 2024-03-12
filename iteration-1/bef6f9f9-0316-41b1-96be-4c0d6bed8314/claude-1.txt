@@ -1,0 +1,62 @@
+{
+  "seller_details": {
+    "name": "DEESAN AGRO TECH. PRIVATE LIMITED UNIT II", 
+    "address": "PLOT NO. A 2 M.I.D.C. AWDHAN, DHULE(MS)-424006",
+    "tel": "02562-288916,288936",
+    "gstin": "27AAACD1662N1ZI"
+  },
+  "buyer_details": {
+    "name": "SHRI MAHALAXMI KIRANA (PAWAR) \"YEOLA*\"",
+    "address": "SHANI PATAGAN, NEAR STATE BANK, BUS STAND BACK, YEOLA, 423401",
+    "contact": "9822679940 RAVINDRABHAU PAWAR.()",
+    "gstin": "27AYAPP2856P1ZS"
+  },
+  "invoice_details": {
+    "invoice_number": "213226",
+    "delivery_note_reference_no": "SR1850-23/09,",
+    "date": "2021-09-23T00:00:00",
+    "items": [
+      {
+        "description": "PARIVAR 500mISOYA REF(1BOX-20P)", 
+        "hsn_sac": 15079,
+        "quantity": "18.200 KGS",
+        "rate": 1310.48,
+        "amount": 2620.96
+      },
+      {
+        "description": "PARIVAR 1LTR SOYA REF. (1BOX=10PCH)",
+        "hsn_sac": 15079,
+        "quantity": "45.500 KGS", 
+        "rate": 1294.29,
+        "amount": 6471.42
+      },
+      {
+        "description": "PARIVAR 2 LTR SOYA REF(1 BOX=6JAR)",
+        "hsn_sac": 15079,
+        "quantity": "10.920 KGS",
+        "rate": 1634.29,
+        "amount": 1634.28
+      },
+      {
+        "description": "PARIVAR 5.LTR. SOYA REF.(1BOX=4JAR)",
+        "hsn_sac": 15079,
+        "quantity": "72.800 KGS",
+        "rate": 2641.9,
+        "amount": 10567.62
+      },
+      {
+        "description": "PARIVAR 15LTR JAR BOX SOYA REF.OIL",
+        "hsn_sac": 15079,
+        "quantity": "68.250 KGS",
+        "rate": 1962.86,
+        "amount": 9814.28
+      }
+    ],
+    "tax_rate": [5.0, 5.0, 5.0, 5.0, 5.0],
+    "cgst_amount": [65.52, 161.79, 40.86, 264.19, 245.36],
+    "sgst_amount": [65.52, 161.79, 40.86, 264.19, 245.36],
+    "total_taxable_amount": 30779.0,
+    "total_amount": 32664.0
+  },
+  "other_details": {}
+}

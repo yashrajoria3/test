@@ -1,0 +1,51 @@
+{
+  "seller_details": {
+    "name": "SHUBHAM AGENCIES",
+    "address": "SHOP NO 4 LOWER GROUND FLOOR, KAVERI SANKUL,",
+    "tel": null,
+    "gstin": "27ABDFM0758K1Z1"
+  },
+  "buyer_details": {
+    "name": "TOLOGY CLINIC & BLOODCARE HE DIAGNOSTIC CENTER.",
+    "address": "B015 NASHIK 422001 (M. S. )",
+    "contact": "9822548180 9422611208",
+    "gstin": "20B-MH-NZ1-279983 218-MH-NE1-279984"
+  },
+  "invoice_details": {
+    "invoice_number": "INV 387",
+    "delivery_note_reference_no": null,
+    "date": "2023-06-02T00:00:00",
+    "items": [
+      {
+        "description": "LABTUBE EDTA K3",
+        "hsn_sac": 9018,
+        "quantity": "12.00",
+        "rate": 190.0,
+        "amount": 380.0
+      },
+      {
+        "description": "LABTUBE EDTA K3",
+        "hsn_sac": 9018,
+        "quantity": "12.00",
+        "rate": 190.0,
+        "amount": 190.0
+      },
+      {
+        "description": "LABTUBE CLOT ACT 4 MI",
+        "hsn_sac": 9018,
+        "quantity": "12.00",
+        "rate": 190.0,
+        "amount": 570.0
+      }
+    ],
+    "tax_rate": [3.0, 3.0],
+    "cgst_amount": [34.2, 34.2],
+    "sgst_amount": [34.2, 34.2],
+    "total_taxable_amount": 1140.0,
+    "total_amount": 1277.0
+  },
+  "other_details": {
+    "bank_details": "BANK BANK OF MAHARASHTRA IFSC MAHB0000214 A/c- 60252441429",
+    "declaration": "The goods and or services described and that all particulars are true and correct Error and Omission in the this voice shall be subject to Jurisdiction of the NASHIK"
+  }
+}

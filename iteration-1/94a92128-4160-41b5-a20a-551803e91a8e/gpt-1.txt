@@ -1,0 +1,42 @@
+{
+    "seller_details": {
+        "name": "Yogeshwar Auto Springs",
+        "address": "Harish Shopping Centre, Near M.S. Kothari School, A.B. Road, Dwarka, Nasik.",
+        "tel": "(0253) 2500940",
+        "gstin": "27AEOPB3580N1Z2"
+    },
+    "buyer_details": {
+        "name": "Navandar Agro Industry.",
+        "address": "Ambad Nasik",
+        "contact": "",
+        "gstin": "27AATPN5060A1ZP"
+    },
+    "invoice_details": {
+        "invoice_number": "504",
+        "delivery_note_reference_no": "",
+        "date": "14/10/21",
+        "items": [
+            {
+                "description": "Bolt",
+                "hsn_sac": 7318,
+                "quantity": "1",
+                "rate": 107.0,
+                "amount": 1605.0
+            }
+        ],
+        "tax_rate": [9.0, 9.0],
+        "cgst_amount": [144.5, 0.0],
+        "sgst_amount": [144.5, 0.0],
+        "total_taxable_amount": 1605.0,
+        "total_amount": 1894.0
+    },
+    "other_details": {
+        "Vehicle / Builty No.": "",
+        "Rupees": "One thousand eight hundred and ninety-four only",
+        "certification": "We hereby certify that my/our registration certificate under the Goods and Service Tax Act 2017 is in force on the date on which the sale of the Goods & Service specified in this 'Tax Invoice' is made by me plus and that the transaction of Goods & Supply covered by this tax invoice has been effected by me/us and it shall be accounted for in the turnover of Goods & Service while filling of return and the due tax if any, payable on the Goods & Service has been paid or shall be paid",
+        "company_address": "W-100, MIDC Industrial Area, Waluj, Aurangabad - 431 133.",
+        "email": "anandindustries333@gmail.com",
+        "phone_numbers": ["96576 33333", "96573 66666"],
+        "slogan": "Serving Indian Farmer Since 1999..."
+    }
+}

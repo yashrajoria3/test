@@ -1,0 +1,69 @@
+{
+    "company_name": "SHIVAY ENTERPRISES",
+    "address": "Shop No.256, Gangamai Industrial Estate, Ambad, Nashik - 422010",
+    "email": "shivayentep@gmail.com",
+    "mobile_number": "8888551555",
+    "gst_number": "27BEGPB8352F1ZM",
+    "state": "Maharashtra",
+    "customer_details": {
+        "company_name": "NAWANDAR AGRO INDUSTRY",
+        "address": "Plot no-b/5 Ambad MIDC Nashik - 422 010, Maharashtra",
+        "gst_number": "27AATPN5060A1ZP"
+    },
+    "invoice_details": {
+        "invoice_number": "SE0111",
+        "invoice_date": "02.01.2021",
+        "hsn_sac": ["72173010", "72173010"],
+        "taxable_value": ["8515", "8515", "8515"],
+        "tax_rate": ["18%", "18%", "18%", "18%", "18%", "9%", "9%"],
+        "quantity": ["45", "15", "1", "1", "1", "1", "1"],
+        "rate": ["96", "95", "75", "20", "100", "kg", "kg"],
+        "tax_amount": ["620.55", "620.55", "1241.1"]
+    },
+    "total_amount": "8136.00",
+    "total_tax_amount": "1241.1",
+    "conclusion": {
+        "mobile_number_check": "Passed",
+        "total_check": "Passed"
+    }
+}
+
+
+prompt 2: you missed the items that were in the invoice
+
+{
+    "company_name": "SHIVAY ENTERPRISES",
+    "address": "Shop No.256, Gangamai Industrial Estate, Ambad, Nashik - 422010",
+    "email": "shivayentep@gmail.com",
+    "mobile_number": "8888551555",
+    "gst_number": "27BEGPB8352F1ZM",
+    "state": "Maharashtra",
+    "customer_details": {
+        "company_name": "NAWANDAR AGRO INDUSTRY",
+        "address": "Plot no-b/5 Ambad MIDC Nashik - 422 010, Maharashtra",
+        "gst_number": "27AATPN5060A1ZP"
+    },
+    "invoice_details": {
+        "invoice_number": "SE0111",
+        "invoice_date": "02.01.2021",
+        "items": [
+            {"description": "VENKATESH Make 70S-6 CO2 MIG WIRE 0.80MM 15.000KG PACKING", "hsn_sac": "72173010", "quantity": "45", "rate": "96", "amount": "4320.00"},
+            {"description": "VENKATESH Make 70S-6 CO2 MIG WIRE 1.20MM 15.000KG PACKING", "hsn_sac": "72173010", "quantity": "15", "rate": "95", "amount": "1425.00"},
+            {"description": "plasma nozzle And Electrode 1.90 contact tip 0.80 m8*30", "hsn_sac": "72173010", "quantity": "1", "rate": "75", "amount": "75.00"},
+            {"description": "Anti Spatter Spary", "hsn_sac": "72173010", "quantity": "1", "rate": "20", "amount": "20.00"},
+            {"description": "Round off", "hsn_sac": "72173010", "quantity": "1", "rate": "100", "amount": "100.00"}
+        ],
+        "hsn_sac": ["72173010", "72173010"],
+        "taxable_value": ["8515", "8515", "8515"],
+        "tax_rate": ["18%", "18%", "18%", "18%", "18%", "9%", "9%"],
+        "quantity": ["45", "15", "1", "1", "1", "1", "1"],
+        "rate": ["96", "95", "75", "20", "100", "kg", "kg"],
+        "tax_amount": ["620.55", "620.55", "1241.1"]
+    },
+    "total_amount": "8136.00",
+    "total_tax_amount": "1241.1",
+    "conclusion": {
+        "mobile_number_check": "Passed",
+        "total_check": "Passed"
+    }
+}

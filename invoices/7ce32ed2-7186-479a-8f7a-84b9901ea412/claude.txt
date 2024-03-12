@@ -1,0 +1,100 @@
+{
+ "invoiceNumber": "64",
+ "productName": "SAHYADRI RED TEA250G",
+ "mrp": 80,
+ "qty": null,
+ "rate": null,
+ "supplierDetails": {
+   "name": "SHRI HARI AGENCY",
+   "address": "28/09/2021 2302,KALA MAROTI ROAD,OPP PRAVIN PHPTO,YEOLA, PH1267087 MO. 7038844387 (ANNA)/7756038038.",
+   "fssaiLicenseNo": "11515028000440",
+   "gstinNo": "27AADPLISS"
+ },
+ "customerDetails": {
+   "name": "SEREE MAHALAXMI KIRANA PAWAR",
+   "address": "TECILA",
+   "gstinNo": "27A YAPP285691ZS"
+ },
+ "invoiceDate": "11/09/2021",
+ "reverseCharge": "NO",
+ "hsn": "0902",
+ "lineItems": [
+   {
+     "productName": "S SAHY ELAIC TEA 250GM",
+     "qty": 1,
+     "rate": 80,
+     "amount": 80
+   },
+   {
+     "productName": "SAHY ELAIC TEA 500G JAR",
+     "qty": 1,
+     "rate": 90,
+     "amount": 90
+   },
+   {  
+     "productName": "SAHY ELAIC TEA 500G JAR",
+     "qty": 1,
+     "rate": 190,
+     "amount": 190
+   },
+   {
+     "productName": "PAR. HOTE DUST TEA 30G",
+     "qty": 1,
+     "rate": 10,
+     "amount": 10
+   },
+   {
+     "productName": "PAR HOTEL DUS TEA 2506",
+     "qty": 3,
+     "rate": 105,
+     "amount": 315
+   },
+   {
+     "productName": "PAR HOTEL DUST 500G",
+     "qty": 1,
+     "rate": 200,
+     "amount": 200
+   },
+   {
+     "productName": "PAR HOTEL OUST TEA IK",
+     "qty": 1,
+     "rate": 400,
+     "amount": 400
+   },
+   {
+     "productName": "PAR 1KG FR. SHOPPING BAG",
+     "qty": 3,
+     "rate": null,
+     "amount": null
+   },
+   {
+     "productName": "SEP SKIM 25+1 HD100G FREE",
+     "qty": 6,
+     "rate": 40,
+     "amount": 240
+   },
+   {
+     "productName": "PARIVAR TEA 26GM",
+     "qty": 1,
+     "rate": 10,
+     "amount": 10  
+   },
+   {
+     "productName": "PARIVAR TEA 250GM",
+     "qty": 118,
+     "rate": 135,
+     "amount": 15930
+   },
+   {
+     "productName": "SEP SKIM 25+ 1 FFB 100G FREE", 
+     "qty": 126,
+     "rate": 47,
+     "amount": 5922
+   }
+ ],
+ "totalTaxableAmount": 15946.67,
+ "cgstAmount": 394.27,
+ "sgstAmount": 394.27,
+ "totalAmount": 16558.92,
+ "fssaiNo": "11516028000090"
+}

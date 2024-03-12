@@ -1,0 +1,85 @@
+{
+ "supplierDetails": {
+   "name": "SHIVAY ENTERPRISES",
+   "address": "Shop No.256, Gangamai Industrial Estate, Ambad,Nashik-422010",
+   "email": "shivayentep@gmail.com",
+   "mobileNo": "8888551555",
+   "gstNo": "27BEGPB8352F1ZM"
+ },
+ "customerDetails": {
+   "name": "NAWANDAR AGRO INDUSTRY",
+   "address": "Plot no -b/5 Ambad MIDC Nashik - 422 010, Maharashtra", 
+   "gstNo": "27AATPN5060A1ZP"
+ },
+ "placeOfSupply": "Maharashtra",
+ "invoiceNo": "SE0111",
+ "invoiceDate": "14-05-2021",
+ "deliveryNote": null,
+ "paymentMode": null,
+ "supplierRef": null,
+ "otherReferences": null,
+ "poNo": null,
+ "poDate": null,
+ "dispatchDocNo": null,
+ "deliveryNoteDate": "02.07.2021",
+ "dispatchThrough": null,
+ "destination": null,
+ "termsOfDelivery": null,
+ "lineItems": [
+   {
+     "description": "VENKATESH Make 70S-6 CO2 MIG WIRE 0.80MM 15.000KG PACKING",
+     "hsn": "72173010",
+     "gstRate": 18,
+     "qty": 45,
+     "rate": 96,
+     "per": "kg",
+     "amount": 4320
+   },
+   {
+     "description": "VENKATESH Make 70S-6 CO2 MIG WIRE 1.20MM 15.000KG PACKING",
+     "hsn": "72173010", 
+     "gstRate": 18,
+     "qty": 15,
+     "rate": 95,
+     "per": "kg",
+     "amount": 1425
+   },
+   {
+     "description": "plasma nozzle And Electrode 1.90",
+     "hsn": "8515",
+     "gstRate": 18, 
+     "qty": 10,
+     "rate": 75,
+     "per": "nos",
+     "amount": 750
+   },
+   {
+     "description": "contact tip 0.80 m8*30",
+     "hsn": "8515",
+     "gstRate": 18,
+     "qty": 10, 
+     "rate": 20,
+     "per": "nos",
+     "amount": 200
+   },
+   {
+     "description": "Anti Spatter Spary",
+     "hsn": "8515",
+     "gstRate": 18,
+     "qty": 2,
+     "rate": 100,
+     "per": "nos", 
+     "amount": 200
+   }
+ ],
+ "taxableValue": 6895,
+ "cgstRate": 9,
+ "cgstAmount": 620.55,
+ "sgstRate": 9,
+ "sgstAmount": 620.55,
+ "totalAmount": 8136,
+ "companyPan": "BEGPB8352F",
+ "bankName": "VISHWAS CO-OP BANK LIMITED",
+ "accountNo": "002002100001351", 
+ "branchIFSC": "HDFC0CVCBLN"
+}

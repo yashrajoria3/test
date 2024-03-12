@@ -1,0 +1,51 @@
+{
+    "seller_details": {
+        "name": "LIFETIME DIAGNOSTICS PRIVATE LIMITED",
+        "address": "MADHU INDUSTRIAL PARK.\nFLAYAN TIWARI MARG,\nMOGRA VILLAGE, ANDHERI (EAST)\nMUMBAI - 400069\nGSTIN 27AAECL2562R1ZX\nTel-022-42113200/220/224\naharashtra - 400069, India\nMahar",
+        "tel": "022-42113200/220/224",
+        "gstin": "27AAECL2562R1ZX"
+    },
+    "buyer_details": {
+        "name": "Blood Care Hematology Clinic",
+        "address": "G1, Suyojit Modern Point, Opp Police Petrol\nPump, Sharanpur Road, Nashik - 422002\nMaharashtra-422002, India\nState Name",
+        "contact": "9665494031",
+        "gstin": ""
+    },
+    "invoice_details": {
+        "invoice_number": "LTD/F730/23-24",
+        "delivery_note_reference_no": "LTD/F730/23-24 dt. 29-Jun-23",
+        "date": "29-Jun-23",
+        "items": [
+            {
+                "description": "Description of Goods",
+                "hsn_sac": "HSN/SAC",
+                "quantity": "Quantity",
+                "rate": "Rate",
+                "amount": "Amount"
+            }
+        ],
+        "tax_rate": [
+            9.0,
+            9.0,
+            6.0,
+            9.0
+        ],
+        "cgst_amount": [
+            123.81,
+            537.57,
+            661.38,
+            537.57
+        ],
+        "sgst_amount": [
+            123.81,
+            537.57,
+            123.81,
+            537.57
+        ],
+        "total_taxable_amount": 10335.24,
+        "total_amount": 11658.0
+    },
+    "other_details": {
+        "E.&O.E": "Total\nTax Amount\n1,075.14\n247.62\n1,322.76\nTax Amount (in words) INR One Thousand Three Hundred Twenty Two and Seventy Six paise Only\nRemarks:\nINTEREST WILL BE CHARGED @ 24% P.A. AFTER\nDUE DATE. MATERIALS ONCE SOLD WILL NOT BE\nTAKEN BACK.\nCompany's PAN\nDeclaration\n: AAECL2562R\nWe declare that this invoice shows the actual price of\nthe goods described and that all particulars are true and correct.\nCompany's Bank Details\nBank Name\nA/c No.\nKotak Mahindra Bank - 5845380454\n5845380454\nBranch & IFS Code: Goregaon (West) & KKBK0000643\nfor LIFETIME DIAGNOSTICS PRIVATE LIMITED\nThis is a Computer Generated Invoice\nCompetent Person"
+    }
+}

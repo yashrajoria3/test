@@ -1,0 +1,117 @@
+{
+ "irn": "43632e9a18d5f7080c4defc39e2cfe1579f2f4a09f8e245e347bc77c177153fc",
+ "ackNo": "112316266646448",
+ "ackDate": "19-May-23",
+ "supplierDetails": {
+   "name": "Vertice Global Private Limited",
+   "address": "SY No.238, Keshavaram Village Medchal - Malkajgiri Dist Hyderabad - 500101, Telangana",
+   "starExportCertNo": "A/3874",
+   "aeoCertNo": "INAAECV9668G1F180",
+   "gstinNo": "36AAECV9668G1ZQ",
+   "stateCode": "36",
+   "stateName": "Telangana",
+   "cin": "U29253TG2014PTC096753",
+   "email": "accounts@verticeglobal.in"
+ },
+ "consigneeDetails": {
+   "name": "Janata Stores",
+   "address": "768, GANUPAGAGA LANE, RAVIWAR PETH, Nashik, Maharashtra, 422001",
+   "gstinNo": "27ASWPS1528D1ZD",
+   "stateName": "Maharashtra",
+   "stateCode": "27"
+ },
+ "buyerDetails": {
+   "name": "Janata Stores",
+   "address": "68, GANUPAGAGA LANE, RAVIWAR PETH, Nashik, Maharashtra, 422001",
+   "gstinNo": "27ASWPS1528D1ZD",
+   "stateName": "Maharashtra",
+   "stateCode": "27"
+ },
+ "invoiceNo": "C12400171",
+ "referenceNoDate": null,
+ "invoiceDate": "19-May-23",
+ "paymentTerms": null,
+ "otherReferences": null,
+ "buyerOrderNo": null,
+ "buyerOrderDate": null,
+ "dispatchDocNo": null,
+ "deliveryNoteDate": null,
+ "destination": null,
+ "dispatchThrough": "Blue Dart Express Limited",
+ "termsOfDelivery": "For Sale and Consumption Within India Not for Export Purpose",
+ "lineItems": [
+   {
+     "description": "ShaveX Platinum Saloon Pack - DE2P202(VSSL200)",
+     "hsn": "82122019",
+     "gstRate": 18,
+     "qty": 2,
+     "rate": 7203.39,
+     "per": "carton's",
+     "discountPct": null,
+     "amount": 14406.72
+   },
+   {
+     "description": "Vertice One Saloon Pack - DE2S102 10000 Blades Per Carton",
+     "hsn": "82122019",
+     "gstRate": 18,
+     "qty": 4,
+     "rate": 6016.95,
+     "per": "carton's",
+     "discountPct": null,
+     "amount": 24067.8
+   },
+   {
+     "description": "ShaveX 3 Piece Metal Razor - AC2201 6 Inners Per Carton",
+     "hsn": "82122019",
+     "gstRate": 18,
+     "qty": 1,
+     "rate": 3233.9,
+     "per": "carton's",
+     "discountPct": null,
+     "amount": 3233.9
+   },
+   {
+     "description": "Vertice Shavex Classic Shaving Foam 500ML - TO2201 500ml 12 Cans Per Carton",
+     "hsn": "33071010",
+     "gstRate": 18,
+     "qty": 3,
+     "rate": 838.98,
+     "per": "No's",
+     "discountPct": null,
+     "amount": 2516.94
+   },
+   {
+     "description": "Silvermax Double Edge Saloon Pack - DE2P302 10000 Blades Per Carton",
+     "hsn": "82122019",
+     "gstRate": 18,
+     "qty": 1,
+     "rate": 8220.34,
+     "per": "carton's",
+     "discountPct": null,
+     "amount": 8220.34
+   }
+ ],
+ "taxableValue": {
+   "hsn": "82122019",
+   "amount": 49928.82
+ },
+ "taxableValue": {
+   "hsn": "33071010", 
+   "amount": 2516.94
+ },
+ "totalTaxableAmount": 52445.76,
+ "igstRate": 18,
+ "igstAmount": 8987.18,
+ "cgstRate": 18,
+ "cgstAmount": 453.05,
+ "sgstRate": null,
+ "sgstAmount": null,
+ "totalTaxAmount": 9440.23,
+ "totalInvoiceAmount": 61886,
+ "amountInWords": "INR Sixty One Thousand Eight Hundred Eighty Six Only",
+ "taxAmountInWords": "Nine Thousand Four Hundred Forty INR and Twenty Three paise Only",
+ "companyPan": "AAECV9668G",
+ "bankName": "ICICI BANK - CC Account",
+ "accountNo": "000851000350",
+ "branchIFSC": "ICIC0000008"
+}

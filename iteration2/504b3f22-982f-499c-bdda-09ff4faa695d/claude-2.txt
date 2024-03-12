@@ -1,0 +1,99 @@
+Iteration 2:
+
+<json>
+{
+  "seller_details": {
+    "name": "Vertice Global Private Limited",
+    "address": "SY No.238, Keshavaram Village\nMedchal - Malkajgiri Dist\nHyderabad - 500101, Telangana",
+    "phone": [
+      9640032888,
+      8142000528
+    ],
+    "telephone": [],
+    "gstin": "36AAECV9668G1ZQ"
+  },
+  "buyer_details": {
+    "name": "Janata Stores",
+    "address": "68, GANUPAGAGA LANE, RAVIWAR PETH,\nNashik, Maharashtra, 422001", 
+    "email": "",
+    "phone": [
+      82373,
+      46376
+    ],
+    "telephone": [],
+    "gstin": "27ASWPS1528D1ZD"
+  },
+  "invoice_details": {
+    "invoice_number": "C12400171",
+    "delivery_note_reference_no": "",
+    "date": "2023-05-19T00:00:00",
+    "items": [
+      {
+        "description": "ShaveX Platinum Saloon Pack - DE2P202(VSSL200)",
+        "hsn_sac": 82122019,
+        "quantity": "2.00 carton's",
+        "rate": 7203.39,
+        "uom": "carton's",
+        "amount": 14406.72,
+        "gst_rate": 18.0
+      },
+      {
+        "description": "Vertice One Saloon Pack - DE2S102",
+        "hsn_sac": 82122019,
+        "quantity": "4.00 carton's",
+        "rate": 6016.95,
+        "uom": "carton's",
+        "amount": 24067.8,
+        "gst_rate": 18.0
+      },
+      {
+        "description": "ShaveX 3 Piece Metal Razor - AC2201",
+        "hsn_sac": 82122019,
+        "quantity": "1.00 carton's",
+        "rate": 3233.9,
+        "uom": "carton's",
+        "amount": 3233.9,
+        "gst_rate": 18.0
+      },
+      {
+        "description": "Vertice Shavex Classic Shaving Foam 500ML - TO2201",
+        "hsn_sac": 33071010,
+        "quantity": "3.0000 No's",
+        "rate": 838.98,
+        "uom": "No's",
+        "amount": 2516.94,
+        "gst_rate": 18.0
+      },
+      {
+        "description": "Silvermax Double Edge Saloon Pack - DE2P302",
+        "hsn_sac": 82122019,
+        "quantity": "1.00 carton's",
+        "rate": 8220.34,
+        "uom": "carton's", 
+        "amount": 8220.34,
+        "gst_rate": 18.0
+      }
+    ],
+    "cgst_rate": 9.0,
+    "sgst_rate": 9.0,
+    "total_cgst_amount": 4720.105,
+    "total_sgst_amount": 4720.105,
+    "total_amount": 61886.0
+  },
+  "other_details": {
+    "dispatch_doc_no": "",
+    "delivery_note_date": "",
+    "destination": "Nashik, Maharashtra, 422001",
+    "dispatched_through": "Blue Dart Express Limited",
+    "terms_of_delivery": "For Sale and Consumption Within India\nNot for Export Purpose",
+    "company_pan": "AAECV9668G",
+    "declaration": "1. Our responsibility ceases once the goods leave our factory. 2.\nInterest on overdue payments will be charged at 24% per\nannum. 3. Cheques / DD should be drawn on \"VERTICE\nGLOBAL PRIVATE LIMITED\" payable at Hyderabad. 4. All\ndisputes are Subject to Hyderabad Jurisdiction only. 5. Prices\nare subject to revision without notice. 6. Goods once sold cannot\nbe taken back or exchanged. 7. Supplies are Subject to Force Majeure Conditions",
+    "company_bank_details": {
+      "bank_name": "ICICI BANK - CC Account",
+      "account_number": "000851000350",
+      "branch_and_ifsc": "Commercial Branch & ICIC0000008"
+    },
+    "jurisdiction": "SUBJECT TO HYDERABAD JURISDICTION"
+  }
+}
+</json>

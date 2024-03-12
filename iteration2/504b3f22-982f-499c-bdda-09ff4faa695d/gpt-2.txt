@@ -1,0 +1,75 @@
+{
+    "seller_details": {
+        "name": "Vertice Global Private Limited",
+        "address": "SY No.238, Keshavaram Village\nMedchal - Malkajgiri Dist\nHyderabad - 500101, Telangana",
+        "phone": [],
+        "telephone": [],
+        "gstin": "36AAECV9668G1ZQ"
+    },
+    "buyer_details": {
+        "name": "Janata Stores",
+        "address": "768, GANUPAGAGA LANE, RAVIWAR PETH,\nNashik, Maharashtra, 422001",
+        "email": "",
+        "phone": [],
+        "telephone": [],
+        "gstin": ""
+    },
+    "invoice_details": {
+        "invoice_number": "C12400171",
+        "delivery_note_reference_no": "",
+        "date": "19-May-23",
+        "items": [
+            {
+                "description": "ShaveX Platinum Saloon Pack - DE2P202(VSSL200)",
+                "hsn_sac": 82122019,
+                "quantity": "10000 Blades Per Carton",
+                "rate": 7.20,
+                "uom": "unit of measurement of an item",
+                "amount": 14406.72,
+                "gst_rate": 18.0
+            },
+            {
+                "description": "Vertice One Saloon Pack - DE2S102",
+                "hsn_sac": 82122019,
+                "quantity": "4.00 carton's",
+                "rate": 6016.95,
+                "uom": "unit of measurement of an item",
+                "amount": 24067.80,
+                "gst_rate": 18.0
+            },
+            {
+                "description": "ShaveX 3 Piece Metal Razor - AC2201",
+                "hsn_sac": 82122019,
+                "quantity": "1.00 carton's",
+                "rate": 3233.90,
+                "uom": "unit of measurement of an item",
+                "amount": 3233.90,
+                "gst_rate": 18.0
+            },
+            {
+                "description": "Vertice Shavex Classic Shaving Foam 500ML - TO2201",
+                "hsn_sac": 33071010,
+                "quantity": "3.0000 No's",
+                "rate": 838.98,
+                "uom": "unit of measurement of an item",
+                "amount": 2516.94,
+                "gst_rate": 18.0
+            },
+            {
+                "description": "Silvermax Double Edge Saloon Pack - DE2P302",
+                "hsn_sac": 82122019,
+                "quantity": "1.00 carton's",
+                "rate": 8220.34,
+                "uom": "unit of measurement of an item",
+                "amount": 8220.34,
+                "gst_rate": 18.0
+            }
+        ],
+        "cgst_rate": 9.0,
+        "sgst_rate": 9.0,
+        "total_cgst_amount": 8987.18,
+        "total_sgst_amount": 8987.18,
+        "total_amount": 61886.00
+    },
+    "other_details": {}
+}

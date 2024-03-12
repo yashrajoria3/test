@@ -1,0 +1,52 @@
+{
+   "seller_details": {
+       "name": "CHITRA GROUP OF PRODUCTS",
+       "address": "Chitra Group of Products Address",
+       "tel": "Seller's Telephone Number",
+       "gstin": "23AAJFC4547K1ZC"
+   },
+   "buyer_details": {
+       "name": "JANTA STORES-NASHIK",
+       "address": "124 ROOPRAM NAGAR, INDORE, MADHYA PRADESH",
+       "contact": "9644205999",
+       "gstin": "27ASWPS1528D1ZD"
+   },
+   "invoice_details": {
+       "invoice_number": "VI-197",
+       "delivery_note_reference_no": "Delivery Note Reference No.",
+       "date": "12-Jul-2023",
+       "items": [
+           {
+               "description": "PMJASMINE HAIR OIL 22 ML",
+               "hsn_sac": 3305,
+               "quantity": "100 Dozen",
+               "rate": 50.8474,
+               "amount": 5084.74
+           },
+           {
+               "description": "PM JASMINE HAIR OIL 60 ML F",
+               "hsn_sac": 3305,
+               "quantity": "42 Dozen",
+               "rate": 101.6949,
+               "amount": 4271.19
+           },
+           {
+               "description": "VM.COCO LIGHT HAIR OIL 60ML",
+               "hsn_sac": 3305,
+               "quantity": "27 Dozen",
+               "rate": 101.6949,
+               "amount": 2745.76
+           }
+       ],
+       "tax_rate": [18.0, 18.0, 18.0],
+       "cgst_amount": [915.25, 768.81, 494.24],
+       "sgst_amount": [915.25, 768.81, 494.24],
+       "total_taxable_amount": 12101.69,
+       "total_amount": 14280.0
+   },
+   "other_details": {
+       "terms": "Credit",
+       "state": "Maharashtra",
+       "additional_details": "State: Maharashtra, GR No., Contact No., State Code, Vehicle No., TRANSPORT, Terms & Conditions, E.&O.E., Goods once sold will not be taken back, Input Tax Credit is Available to a taxable person against this copy, Bill Amount In Words: Rupees Fourteen Thousand Two Hundred Eighty Only, Total Tax Amount: GST, Total Amount After Tax, GRAND TOTAL, Total GST Amount In Words: Rupees Two Thousand One Hundred Seventy Eight & Thirty Paise Only"
+   }
+}

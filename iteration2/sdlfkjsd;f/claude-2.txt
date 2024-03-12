@@ -1,0 +1,57 @@
+Here is the JSON output following the given format:
+
+```json
+{
+  "seller_details": {
+    "name": "LIFETIME DIAGNOSTICS PRIVATE LIMITED",
+    "address": "MADHU INDUSTRIAL PARK.\nFLAYAN TIWARI MARG,\nMOGRA VILLAGE, ANDHERI (EAST)\nMUMBAI - 400069\nMaharashtra - 400069, India",
+    "tel": "022-42113200/220/224",
+    "gstin": "27AAECL2562R1ZX"
+  },
+  "buyer_details": {
+    "name": "Blood Care Hematology Clinic",
+    "address": "G1, Suyojit Modern Point, Opp Police Petrol\nPump, Sharanpur Road, Nashik - 422002\nMaharashtra-422002, India",
+    "contact": "9665494031",
+    "gstin": "27AAECL2562R1ZX"
+  },
+  "invoice_details": {
+    "invoice_number": "LTD/F730/23-24",
+    "delivery_note_reference_no": "LTD/F730/23-24 dt. 29-Jun-23",
+    "date": "29-Jun-23",
+    "items": [
+      {
+        "description": "HSN/SAC",
+        "hsn_sac": 38220090,
+        "quantity": "537.57",
+        "rate": 6.0,
+        "amount": 661.38
+      },
+      {
+        "description": "39269099",
+        "hsn_sac": 39269099,
+        "quantity": "123.81",
+        "rate": 9.0,
+        "amount": 661.38
+      }
+    ],
+    "tax_rate": [9.0, 9.0],
+    "cgst_amount": [537.57, 123.81],
+    "sgst_amount": [537.57, 123.81],
+    "total_taxable_amount": 8959.58,
+    "total_amount": 11658.0
+  },
+  "other_details": {
+    "mode_terms_of_payment": "30 Days",
+    "dispatch_doc_no": "LTD/F730/23-24 dt. 29-Jun-23",
+    "delivery_note_date": "29-Jun-23",
+    "dispatched_through": null,
+    "destination": "Blood Care Hematology Clinic\nG1, Suyojit Modern Point, Opp Police Petrol\nPump, Sharanpur Road, Nashik - 422002\nMaharashtra - 422002, India",
+    "terms_of_delivery": null,
+    "place_of_supply": "Maharashtra, Code: 27",
+    "company_pan": "AAECL2562R",
+    "bank_name": "Kotak Mahindra Bank",
+    "account_number": "5845380454",
+    "branch_ifsc": "Goregaon (West) & KKBK0000643"
+  }
+}
+```

@@ -1,0 +1,79 @@
+{
+    "seller_details": {
+        "name": "SHIVAY ENTERPRISES",
+        "address": "Shop No.256, Gangamai Industrial Estate, Ambad, Nashik-422010",
+        "tel": "8888551555",
+        "gstin": "27BEGPB8352F1ZM"
+    },
+    "buyer_details": {
+        "name": "NAWANDAR AGRO INDUSTRY",
+        "address": "Plot no -b/5 Ambad MIDC Nashik - 422 010, Maharashtra",
+        "contact": "",
+        "gstin": "27AATPN5060A1ZP"
+    },
+    "invoice_details": {
+        "invoice_number": "SE0111",
+        "delivery_note_reference_no": "",
+        "date": "14-05-2021",
+        "items": [
+            {
+                "description": "VENKATESH Make 70S-6 CO2 MIG WIRE 0.80MM 15.000KG PACKING",
+                "hsn_sac": 72173010,
+                "quantity": "45kg",
+                "rate": 96.0,
+                "amount": 4320.0
+            },
+            {
+                "description": "VENKATESH Make 70S-6 CO2 MIG WIRE 1.20MM 15.000KG PACKING",
+                "hsn_sac": 72173010,
+                "quantity": "15kg",
+                "rate": 95.0,
+                "amount": 1425.0
+            },
+            {
+                "description": "plasma nozzle And Electrode 1.90",
+                "hsn_sac": 8515,
+                "quantity": "10nos",
+                "rate": 75.0,
+                "amount": 750.0
+            },
+            {
+                "description": "contact tip 0.80 m8*30",
+                "hsn_sac": 8515,
+                "quantity": "10nos",
+                "rate": 20.0,
+                "amount": 200.0
+            },
+            {
+                "description": "Anti Spatter Spary",
+                "hsn_sac": 8515,
+                "quantity": "2nos",
+                "rate": 100.0,
+                "amount": 200.0
+            }
+        ],
+        "tax_rate": [
+            18.0,
+            18.0,
+            18.0,
+            18.0,
+            18.0
+        ],
+        "cgst_amount": [
+            620.55,
+            620.55,
+            620.55,
+            620.55,
+            620.55
+        ],
+        "sgst_amount": [
+            620.55,
+            620.55,
+            620.55,
+            620.55,
+            620.55
+        ],
+        "total_taxable_amount": 6895.0,
+        "total_amount": 8136.0
+    }
+}

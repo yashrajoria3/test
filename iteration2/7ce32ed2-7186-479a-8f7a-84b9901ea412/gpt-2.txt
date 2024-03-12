@@ -1,0 +1,204 @@
+{
+   "seller_details": {
+       "name": "SHRI HARI AGENCY",
+       "address": "2302,KALA MAROTI ROAD,OPP PRAVIN PHPTO,YEOLA, PH1267087 MO. 7038844387 (ANNA)/7756038038.",
+       "phone": [7038844387, 7756038038],
+       "telephone": []
+       "gstin": "27AADPLISS",
+   },
+   "buyer_details": {
+       "name": "SEREE MAHALAXMI KIRANA PAWAR",
+       "address": "TECILA",
+       "email": "",
+       "phone": [],
+       "telephone": []
+       "gstin": "27A YAPP285691ZS",
+   },
+   "invoice_details": {
+       "invoice_number": "1965",
+       "delivery_note_reference_no": "64",
+       "date": "2021-09-28",
+       "items": [
+           {
+               "description": "SAHYADRI RED TEA250G",
+               "hsn_sac": 2101,
+               "quantity": "1",
+               "rate": 80.00,
+               "uom": "unit",
+               "amount": 80.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "SAHY ELAIC TEA 250GM",
+               "hsn_sac": 2102,
+               "quantity": "1",
+               "rate": 90.00,
+               "uom": "unit",
+               "amount": 90.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "PAR. HOTE DUST TEA 30G",
+               "hsn_sac": 2103,
+               "quantity": "1",
+               "rate": 10.00,
+               "uom": "unit",
+               "amount": 10.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "PAR HOTEL DUS TEA 2506",
+               "hsn_sac": 2104,
+               "quantity": "1",
+               "rate": 105.00,
+               "uom": "unit",
+               "amount": 105.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "PAR HOTEL DUST 500G",
+               "hsn_sac": 2105,
+               "quantity": "1",
+               "rate": 200.00,
+               "uom": "unit",
+               "amount": 200.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "PAR HOTEL OUST TEA IK",
+               "hsn_sac": 2106,
+               "quantity": "1",
+               "rate": 400.00,
+               "uom": "unit",
+               "amount": 400.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "PAR 1KG FR. SHOPPING BAG",
+               "hsn_sac": 2107,
+               "quantity": "1",
+               "rate": 0.00,
+               "uom": "unit",
+               "amount": 0.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "PARIVAR TEA 26GM",
+               "hsn_sac": 2108,
+               "quantity": "1",
+               "rate": 10.00,
+               "uom": "unit",
+               "amount": 10.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "PARIVAR TEA 250GM",
+               "hsn_sac": 2109,
+               "quantity": "1",
+               "rate": 135.00,
+               "uom": "unit",
+               "amount": 135.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "SEP SKIM 25+1 HD100G FREE",
+               "hsn_sac": 2110,
+               "quantity": "1",
+               "rate": 40.00,
+               "uom": "unit",
+               "amount": 40.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "PARIVAR TEA 250GM",
+               "hsn_sac": 2111,
+               "quantity": "1",
+               "rate": 135.00,
+               "uom": "unit",
+               "amount": 135.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "SEP SKIM 25+ 1 FFB 100G FREE",
+               "hsn_sac": 2112,
+               "quantity": "1",
+               "rate": 47.00,
+               "uom": "unit",
+               "amount": 47.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "DIG",
+               "hsn_sac": 2113,
+               "quantity": "1",
+               "rate": 0.00,
+               "uom": "unit",
+               "amount": 0.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "S",
+               "hsn_sac": 2114,
+               "quantity": "1",
+               "rate": 0.00,
+               "uom": "unit",
+               "amount": 0.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "S",
+               "hsn_sac": 2115,
+               "quantity": "1",
+               "rate": 0.00,
+               "uom": "unit",
+               "amount": 0.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "S",
+               "hsn_sac": 2116,
+               "quantity": "1",
+               "rate": 0.00,
+               "uom": "unit",
+               "amount": 0.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "S",
+               "hsn_sac": 2117,
+               "quantity": "1",
+               "rate": 0.00,
+               "uom": "unit",
+               "amount": 0.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "S",
+               "hsn_sac": 2118,
+               "quantity": "1",
+               "rate": 0.00,
+               "uom": "unit",
+               "amount": 0.00,
+               "gst_rate": 0
+           },
+           {
+               "description": "DIG",
+               "hsn_sac": 2119,
+               "quantity": "1",
+               "rate": 0.00,
+               "uom": "unit",
+               "amount": 0.00,
+               "gst_rate": 0
+           }
+       ],
+       "cgst_rate": 5.00,
+       "sgst_rate": 5.00,
+       "total_cgst_amount": 857.13,
+       "total_sgst_amount": 857.13,
+       "total_amount": 16558.92
+   },
+   "other_details": {
+       "FSSAI LIC NO.": "11515028000440",
+       "Certified": "THE GOODS MENTION IN THIS INVOCE ARE WARRANTED TO BE OF THE NATURE AND QUALITY WHICH THESE PURPORP/PURPORTS TO BE THE TIME OF DELIVERY."
+   }
+}

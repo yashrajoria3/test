@@ -1,0 +1,83 @@
+{
+  "Invoice Number": "SE0111",
+  "Invoice Date": "14-05-2021",
+  "Sender": {
+    "Name": "SHIVAY ENTERPRISES",
+    "Address": "Shop No.256, Gangamai Industrial Estate, Ambad, Nashik-422010",
+    "Email": "shivayentep@gmail.com",
+    "Mobile No.": "8888551555",
+    "GSTIN": "27BEGPB8352F1ZM"
+  },
+  "Receiver": {
+    "Name": "NAWANDAR AGRO INDUSTRY",
+    "Address": "Plot no -b/5 Ambad MIDC Nashik - 422 010, Maharashtra",
+    "GSTIN": "27AATPN5060A1ZP",
+    "Place of Supply": "Maharashtra"
+  },
+  "Stock Items": [
+    {
+      "Description": "VENKATESH Make 70S-6 CO2 MIG WIRE 0.80MM 15.000KG PACKING",
+      "HSN/SAC": "72173010",
+      "GST Rate": "18%",
+      "Quantity": "45",
+      "Rate": "96",
+      "Per": "kg",
+      "Amount": "4320.00"
+    },
+    {
+      "Description": "VENKATESH Make 70S-6 CO2 MIG WIRE 1.20MM 15.000KG PACKING",
+      "HSN/SAC": "72173010",
+      "GST Rate": "18%",
+      "Quantity": "15",
+      "Rate": "95",
+      "Per": "kg",
+      "Amount": "1425.00"
+    },
+    {
+      "Description": "plasma nozzle And Electrode 1.90",
+      "HSN/SAC": "8515",
+      "GST Rate": "18%",
+      "Quantity": "10",
+      "Rate": "75",
+      "Per": "nos",
+      "Amount": "750.00"
+    },
+    {
+      "Description": "contact tip 0.80 m8*30",
+      "HSN/SAC": "8515",
+      "GST Rate": "18%",
+      "Quantity": "10",
+      "Rate": "20",
+      "Per": "nos",
+      "Amount": "200.00"
+    },
+    {
+      "Description": "Anti Spatter Spary",
+      "HSN/SAC": "8515",
+      "GST Rate": "18%",
+      "Quantity": "2",
+      "Rate": "100",
+      "Per": "nos",
+      "Amount": "200.00"
+    }
+  ],
+  "Total Amount": "8136.00",
+  "GSTIN": "27BEGPB8352F1ZM",
+  "Central Tax": {
+    "Rate": "9%",
+    "Value": "6895.00"
+  },
+  "State Tax": {
+    "Rate": "9%",
+    "Value": "620.55"
+  },
+  "Total Tax Amount": "1241.1",
+  "Company's Pan": "BEGPB8352F",
+  "Declaration": "We declare that this invoice shows the actual price of goods described and that all particulars are true and correct.",
+  "Customer's Seal and Signature": "",
+  "Company's Bank Details": {
+    "Bank Name": "VISHWAS CO-OP BANK LIMITED",
+    "A/c No.": "002002100001351",
+    "Branch & IFS Code": "HDFCOCVCBLN"
+  }
+}
